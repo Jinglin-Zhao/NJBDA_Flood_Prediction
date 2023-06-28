@@ -1,8 +1,8 @@
 # NJBDA_Flood_Prediction
-Flood Analysis and Prediction
+# Flood Analysis and Prediction
 This repository contains the code and data for analyzing and predicting flood events using time series flood data in Trenton, New Jersey. The project utilizes Python and ArcGIS to perform data analysis, visualization, and modeling.
 
-Features
+## Features
 Analyzed time series flood data (water level/streamflow) using Python, enabling the exploration and understanding of flood patterns and trends.
 Utilized ArcGIS to visually map the flood susceptibility area of Trenton, New Jersey, providing valuable insights into areas prone to flooding.
 Researched and employed advanced modeling techniques such as XGBoost, LSTM, and SARIMA to predict water levels during flood events, with a specific focus on events where the gauge reaches or exceeds 8.5 ft according to USGS data.
