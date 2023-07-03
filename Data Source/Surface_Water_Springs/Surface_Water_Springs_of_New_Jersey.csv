@@ -1,0 +1,512 @@
+﻿X,Y,OBJECTID,SPRINGID,SPRINGNAME,ADDRESS,DESCRIPTION,COMMENTS,ELEVATION,SOURCE,GLOBALID
+-8336975.24639813,4912490.15515682,1,77,Kusar Mountain Spring,Fiddlers Creek Rd.,Spring house in Baldpate Mountain Mercer County Park.,"Spring located in springhouse near park round that leads to env. ed center, possibly used for water supply,",178,GPS,{DB192E03-C170-4C10-86D3-70E28007678C}
+-8313841.16830894,5013525.47988113,2,79,Lake Mohawk Cave, ,Entrance pit filled in, ,0,Air photo,{03A36A1C-E5B3-4852-9E2A-B974002FA997}
+-8349335.10775059,5007353.39687458,3,80,Lake Susquehanna Cave, ,Entrance 5 ft. above spring, ,0,Air photo,{8D198ED6-F768-489A-8197-B10A3EF98F38}
+-8326281.36841258,5014469.37480517,4,81,Lime Kiln Pond, ,"sink hole pond in Whittingham WMA; not a spring", ,0,Air photo,{12B5AE0A-5387-419D-8053-CA5F3886FFFA}
+-8326137.50183494,5014590.78957786,5,82,Lime Kiln Swallow Hole, ,"Swallow hole in Whittingham WMA; not a spring", ,0,Air photo,{5097790B-6224-43DD-B34B-326A03513FDF}
+-8271394.15579037,4972320.58909607,6,83,Locust Grove Spring, ,"Spring in Locust Grove Picnic Area of South Mountain Reservation.  Closed off for drinking in 2010 because of Bacteria contamination. Millburn Township, Essex County.", ,0,GPS,{12D531AE-3B29-4041-8C5B-375FAF8EA3F2}
+-8318461.41659236,4971767.3268607,7,86,Morris County Soil Survey Map 001, , , ,0,Soils map,{3B544E08-0752-4660-A6BE-616246FFBA39}
+-8318423.16318388,4971785.17060538,8,87,Morris County Soil Survey Map 002, , , ,0,Soils map,{A1E0B944-1BF3-4742-8E16-7FEA5ACD1D69}
+-8316757.11250189,4972361.91962267,9,88,Morris County Soil Survey Map 003, , , ,0,Soils map,{6C8427BC-4494-48C3-A384-040E184E0319}
+-8319574.68705293,4972517.09627699,10,89,Morris County Soil Survey Map 004, , , ,0,Soils map,{0024D386-5930-45DC-A950-537FB9F4C7EB}
+-8319489.26844888,4972526.19947159,11,90,Morris County Soil Survey Map 005, , , ,0,Soils map,{413483F2-9E3F-4546-84B2-F79247EBDF83}
+-8319554.2609142,4972591.09439144,12,91,Morris County Soil Survey Map 006, , , ,0,Soils map,{FD5CEE1A-52B4-4B74-ABDD-A7AB352A5F75}
+-8319498.38363643,4972629.69548805,13,92,Morris County Soil Survey Map 007, , , ,0,Soils map,{5BA17DEB-A58F-4483-B51A-D98E14B9F65E}
+-8316965.11353692,4972648.08418499,14,93,Morris County Soil Survey Map 008, , , ,0,Soils map,{BFC21EC4-18D9-4759-A5CB-228C750EF55C}
+-8317305.01985694,4973168.69299553,15,94,Morris County Soil Survey Map 009, , , ,0,Soils map,{79EAC8E8-841B-4B8E-8B31-68B08AAF4843}
+-8322249.12201915,4973639.42251412,16,95,Morris County Soil Survey Map 010, , , ,0,Soils map,{B513FE43-CF20-4EBC-B63A-75209FC7EE7A}
+-8320738.20992383,4973685.2104124,17,96,Morris County Soil Survey Map 011, , , ,0,Soils map,{0A03FB6C-DD99-4A08-AA7B-DA90E5EDF48F}
+-8320241.68287445,4973787.1716994,18,97,Morris County Soil Survey Map 012, , , ,0,Soils map,{892264D8-6EBB-4333-8159-EDB2DF902401}
+-8316036.04113644,4973826.40053135,19,98,Morris County Soil Survey Map 013, , , ,0,Soils map,{55E8B8B1-AB29-428E-A38F-091DC70D42C5}
+-8322435.77796546,4973982.00524018,20,99,Morris County Soil Survey Map 014, , , ,0,Soils map,{787007F0-5F4D-4FA2-9F78-F60BB77A2BB0}
+-8316181.92652461,4974545.65659184,21,100,Morris County Soil Survey Map 015, , , ,0,Soils map,{B57A4461-FEF6-4537-BBA5-3E4D59BBCBB1}
+-8316407.00621655,4975298.05541538,22,101,Morris County Soil Survey Map 016, , , ,0,Soils map,{AC50E0F2-6F10-484D-833B-BA6CF32EE867}
+-8316801.10273954,4975298.79774634,23,102,Morris County Soil Survey Map 017, , , ,0,Soils map,{83812D20-1B4D-4ED2-BBE9-A263026FFDC4}
+-8316756.83340161,4975311.52369728,24,103,Morris County Soil Survey Map 018, , , ,0,Soils map,{023C3611-1482-4C23-B487-A5FE052FD5E0}
+-8316681.83493683,4975335.42836765,25,104,Morris County Soil Survey Map 019, , , ,0,Soils map,{4120AFDB-EC2A-4DF2-9404-0B6182DE8743}
+-8317708.6118573,4975417.45917711,26,105,Morris County Soil Survey Map 020, , , ,0,Soils map,{179C3747-A594-45F9-A4AA-40B7E53D25CE}
+-8294619.12955303,4975478.83864865,27,106,Morris County Soil Survey Map 021, , , ,0,Soils map,{D0923178-13B7-4CDB-B2E2-F79F5A47F11B}
+-8317519.04894069,4975722.78086032,28,107,Morris County Soil Survey Map 022, , , ,0,Soils map,{2FBA843E-6CBB-4041-A5D0-52836305F23A}
+-8304084.72786531,4975921.70110037,29,108,Morris County Soil Survey Map 023, , , ,0,Soils map,{D59C488D-94E6-469E-870B-B48F97692286}
+-8321787.78404155,4976063.9660025,30,109,Morris County Soil Survey Map 024, , , ,0,Soils map,{97487B81-0E80-4D36-892E-56DB5637D4AE}
+-8321755.16102398,4976125.99438344,31,110,Morris County Soil Survey Map 025, , , ,0,Soils map,{4566DB3B-E312-4093-8F4D-8D4BF3DDF105}
+-8319560.12724844,4976338.52383395,32,111,Morris County Soil Survey Map 026, , , ,0,Soils map,{9EFDD323-FF5A-4963-8ED7-751E2C7118A4}
+-8322827.70732167,4976372.05102139,33,112,Morris County Soil Survey Map 027, , , ,0,Soils map,{67B8D9F0-305A-464A-8EC6-4197FC04A3EF}
+-8322639.4657031,4976425.05613945,34,113,Morris County Soil Survey Map 028, , , ,0,Soils map,{4AA387EA-5716-4C00-B7D6-D1B54F118046}
+-8322921.65938132,4976426.27765007,35,114,Morris County Soil Survey Map 029, , , ,0,Soils map,{21C5C541-710B-453F-B563-B5F47EDC2431}
+-8322544.56229715,4976475.93453274,36,115,Morris County Soil Survey Map 030, , , ,0,Soils map,{A47F9585-BED8-424C-AB7D-AEFA5F7AD895}
+-8322510.97605608,4976494.36163711,37,116,Morris County Soil Survey Map 031, , , ,0,Soils map,{33ED1F98-4423-4D45-B299-253531344D27}
+-8322462.50327486,4976524.3588021,38,117,Morris County Soil Survey Map 032, , , ,0,Soils map,{72E8C9F0-D3C9-43F8-8726-6DB8D7674F2D}
+-8322911.91214234,4976539.01865373,39,118,Morris County Soil Survey Map 033, , , ,0,Soils map,{E43FD20B-CF09-4F71-B3AE-84E3C78B3C4C}
+-8317836.44298766,4976755.23483965,40,119,Morris County Soil Survey Map 034, , , ,0,Soils map,{D0485B9B-40EE-4F65-A890-AFED4D19AAD0}
+-8316069.46295257,4976970.33398626,41,120,Morris County Soil Survey Map 035, , , ,0,Soils map,{CA3D60CD-3045-4E08-900F-A602B74FEA50}
+-8293508.74751808,4977160.87409894,42,121,Morris County Soil Survey Map 036, , , ,0,Soils map,{FE46FBC2-873D-41F4-B454-59BD5F22EC38}
+-8304282.96946836,4977217.99512495,43,122,Morris County Soil Survey Map 037, , , ,0,Soils map,{A543BB17-EBB2-413E-B131-6F3325FF6EF3}
+-8316725.63488788,4977329.9623033,44,123,Morris County Soil Survey Map 038, , , ,0,Soils map,{8710B56C-FDEA-4759-9092-24B789E414AD}
+-8311909.98372279,4978345.53618633,45,124,Morris County Soil Survey Map 039, , , ,0,Soils map,{05141505-4F1E-48A2-A9E0-31E5E898EC6B}
+-8312958.04473689,4978384.74113719,46,125,Morris County Soil Survey Map 040, , , ,0,Soils map,{7A944E14-00F4-443E-80CD-EA39A71FF2EA}
+-8311909.71862434,4978429.65258856,47,126,Morris County Soil Survey Map 041, , , ,0,Soils map,{2917B3B6-98E5-4567-9184-5B7D8F89D9F9}
+-8315646.22883895,4978678.49258303,48,127,Morris County Soil Survey Map 042, , , ,0,Soils map,{485BA199-D58B-4215-ABE5-EEEEE525AAFC}
+-8332437.19515666,4978654.87364436,49,128,Morris County Soil Survey Map 043, , , ,0,Soils map,{03355600-EAE8-45CE-927E-287158D5C804}
+-8317021.59282982,4978765.18425192,50,129,Morris County Soil Survey Map 044, , , ,0,Soils map,{38DF91BE-0A58-4B54-B1AE-75B56168E762}
+-8312724.99836198,4978790.9368624,51,130,Morris County Soil Survey Map 045, , , ,0,Soils map,{9D1BD2D5-6A2F-43E6-BA53-B61657B866B5}
+-8316833.51939599,4978879.86477358,52,131,Morris County Soil Survey Map 046, , , ,0,Soils map,{448B64E1-0489-4F19-8015-59F1058A5777}
+-8318745.3068347,4978887.21333824,53,132,Morris County Soil Survey Map 047, , , ,0,Soils map,{E89A1C9B-456F-4A91-AE65-205517D8B886}
+-8318705.21824934,4978927.66693879,54,133,Morris County Soil Survey Map 048, , , ,0,Soils map,{BC73785B-16B2-4775-9C00-81AF3C39259A}
+-8318551.84059234,4979107.1533362,55,134,Morris County Soil Survey Map 049, , , ,0,Soils map,{E155C555-BABA-43AF-BBBA-7681400BE246}
+-8304698.73626566,4979459.15836765,56,135,Morris County Soil Survey Map 050, , , ,0,Soils map,{400699B8-D845-4193-BC48-D750BF1F840F}
+-8317954.33449886,4979448.38356493,57,136,Morris County Soil Survey Map 051, , , ,0,Soils map,{80CF4592-BC6D-4FE2-BCBB-8F2949B4DDEF}
+-8316305.39230514,4979540.24609186,58,137,Morris County Soil Survey Map 052, , , ,0,Soils map,{6353E4B7-82A2-4EE8-9806-CF50334DB733}
+-8295028.42575497,4979750.59833011,59,138,Morris County Soil Survey Map 053, , , ,0,Soils map,{780F2815-D7C5-473F-BDF5-442B45F46094}
+-8319611.77810014,4979749.5615668,60,139,Morris County Soil Survey Map 054, , , ,0,Soils map,{B26245D6-38CC-4117-ADF2-8678CDEB138D}
+-8316323.07868162,4979766.24394843,61,140,Morris County Soil Survey Map 055, , , ,0,Soils map,{7BD477D3-91AC-4727-9E60-6837D31916F5}
+-8319998.6307888,4979771.56593055,62,141,Morris County Soil Survey Map 056, , , ,0,Soils map,{BCF5FBB1-A04C-4DFF-A0D3-90BF26F1407C}
+-8319537.26607235,4979801.64438936,63,142,Morris County Soil Survey Map 057, , , ,0,Soils map,{75CBE5EC-9407-49E2-B6D0-2201F1DE7A0D}
+-8316230.60371667,4979875.5134354,64,143,Morris County Soil Survey Map 058, , , ,0,Soils map,{DEAAB4C7-334E-43A1-B94B-5EEC2E743F06}
+-8316163.78493876,4979915.96877952,65,144,Morris County Soil Survey Map 059, , , ,0,Soils map,{7B58E29E-52F3-41DA-988B-7BB7E0DF7E98}
+-8318236.35727195,4980156.71502995,66,145,Morris County Soil Survey Map 060, , , ,0,Soils map,{D1B283FB-0E92-4C0F-96DD-61E5BA65711D}
+-8328273.3033692,4980175.28567035,67,146,Morris County Soil Survey Map 061, , , ,0,Soils map,{59E7090A-F29B-4BBF-8ED4-A7CB0A34D97A}
+-8328151.72675952,4980359.78109449,68,147,Morris County Soil Survey Map 062, , , ,0,Soils map,{4AE6F41D-549D-40AB-9DE2-229879CE1077}
+-8320182.62832251,4980423.32536722,69,148,Morris County Soil Survey Map 063, , , ,0,Soils map,{04CCCF67-8A60-4FA7-8749-FE23AE6AE2E1}
+-8320164.24512626,4980453.33609108,70,149,Morris County Soil Survey Map 064, , , ,0,Soils map,{31435CF4-7FCF-49F3-BBC6-F7D58122991F}
+-8326710.43973959,4980560.79004987,71,150,Morris County Soil Survey Map 065, , , ,0,Soils map,{D609EBA9-0A73-4AA0-88F4-5B535184F0F9}
+-8325894.978507,4980569.32191031,72,151,Morris County Soil Survey Map 066, , , ,0,Soils map,{5B8B2751-0D47-4ED8-8E65-47E7CEB7CB0D}
+-8326673.38619523,4980641.62856697,73,152,Morris County Soil Survey Map 067, , , ,0,Soils map,{09117A46-4234-465B-A803-6DE0003DEA83}
+-8320989.75667505,4980813.68472411,74,153,Morris County Soil Survey Map 068, , , ,0,Soils map,{9ED4AE85-17CB-48FA-9EE9-D004735A7451}
+-8321023.16150028,4980840.34047276,75,154,Morris County Soil Survey Map 069, , , ,0,Soils map,{E1FBFA92-435D-4D43-A619-AB13D1AF65AF}
+-8320982.01468698,4980894.76379353,76,155,Morris County Soil Survey Map 070, , , ,0,Soils map,{3D09A0CC-A187-4350-B0C7-30E8819565C5}
+-8325010.36804069,4981354.31933796,77,156,Morris County Soil Survey Map 071, , , ,0,Soils map,{7A3B5C46-4867-4F89-B361-D7BF447134E6}
+-8318740.90787586,4981698.71719951,78,157,Morris County Soil Survey Map 072, , , ,0,Soils map,{0EDE08F7-595F-4912-8498-B8A42493AF2B}
+-8325501.46527583,4982180.96788745,79,158,Morris County Soil Survey Map 073, , , ,0,Soils map,{873591E5-DF89-41BF-A766-FFB76A59A1F6}
+-8325348.13390905,4982424.23105623,80,159,Morris County Soil Survey Map 074, , , ,0,Soils map,{9428C791-4E4E-40EA-B488-CC3D92BC4F55}
+-8326540.63899032,4982537.60697252,81,160,Morris County Soil Survey Map 075, , , ,0,Soils map,{F88A4F6F-C749-4C35-89FD-FB176AE4261F}
+-8311016.29608215,4982704.52619554,82,161,Morris County Soil Survey Map 076, , , ,0,Soils map,{21694770-F3B6-4BD8-8628-7BBC1225958F}
+-8323394.842587,4982916.00369149,83,162,Morris County Soil Survey Map 077, , , ,0,Soils map,{612AC94D-2BA1-4E82-9683-D7A72238DE20}
+-8323357.92352089,4983009.4921826,84,163,Morris County Soil Survey Map 078, , , ,0,Soils map,{73144A9D-204F-45A2-837C-CBD70247EACD}
+-8323067.70693421,4983059.6045667,85,164,Morris County Soil Survey Map 079, , , ,0,Soils map,{91B29BB7-18C9-4322-A786-72A5255C6EEA}
+-8324940.83814763,4983356.63215785,86,165,Morris County Soil Survey Map 080, , , ,0,Soils map,{4614FAB9-CF04-4280-A6F2-2391F4ABF6BA}
+-8322374.0112405,4983433.94334523,87,166,Morris County Soil Survey Map 081, , , ,0,Soils map,{90DA4FF4-6C8F-45D3-8D21-632757319D3C}
+-8325002.27481576,4983452.47841104,88,167,Morris County Soil Survey Map 082, , , ,0,Soils map,{58A66053-1A4B-494F-BF06-54D603BCB3F2}
+-8320366.37481461,4983909.3814064,89,168,Morris County Soil Survey Map 083, , , ,0,Soils map,{B532A22B-3B66-4CC4-83DC-1044116B9574}
+-8323720.60926014,4984049.27140111,90,169,Morris County Soil Survey Map 084, , , ,0,Soils map,{3133F090-7483-4FA5-A50D-67CC4CD43EDF}
+-8314911.29064562,4984126.34513131,91,170,Morris County Soil Survey Map 085, , , ,0,Soils map,{DF746604-F654-434D-B156-DEB14C4F6CC4}
+-8314683.7025684,4984240.05178169,92,171,Morris County Soil Survey Map 086, , , ,0,Soils map,{546490AF-07E6-40E2-A809-B0DE1D1FC645}
+-8323815.08030125,4984269.29783361,93,172,Morris County Soil Survey Map 087, , , ,0,Soils map,{D1488964-A234-469C-97B1-5EEB931ABEDB}
+-8323881.98068866,4984293.49351341,94,173,Morris County Soil Survey Map 088, , , ,0,Soils map,{5AF426D7-5917-4EB2-AFFC-1AC8B090786A}
+-8320157.51958765,4984315.51872949,95,174,Morris County Soil Survey Map 089, , , ,0,Soils map,{23171574-E158-4EA0-8CC2-BA47D38B76BB}
+-8325000.61847508,4984301.3255214,96,175,Morris County Soil Survey Map 090, , , ,0,Soils map,{9CFFC675-2437-4007-84BB-0C9D71400B7B}
+-8324750.14023443,4984336.86051737,97,176,Morris County Soil Survey Map 091, , , ,0,Soils map,{0C4636B2-C03F-4BB7-9ADD-1BEFF8749975}
+-8324921.74354281,4984337.41053918,98,177,Morris County Soil Survey Map 092, , , ,0,Soils map,{B77354F7-1537-4D38-9D83-76CFFC95A83F}
+-8323883.63755262,4984341.52288602,99,178,Morris County Soil Survey Map 093, , , ,0,Soils map,{EC21E66F-D8B4-4404-B20D-ED165261F087}
+-8324763.40627164,4984375.53445066,100,179,Morris County Soil Survey Map 094, , , ,0,Soils map,{563877CE-B145-452D-ACC3-C560409814C9}
+-8316561.28131216,4984439.32268312,101,180,Morris County Soil Survey Map 095, , , ,0,Soils map,{EEA10596-234A-4A0A-9E25-787FEA4D127E}
+-8311206.68360451,4984507.51928526,102,181,Morris County Soil Survey Map 096, , , ,0,Soils map,{4120FB7F-99F4-422A-A4F6-EE1F01C4EE2D}
+-8324807.36857342,4984552.2708708,103,182,Morris County Soil Survey Map 097, , , ,0,Soils map,{663D83CE-282F-47DF-B4C4-87A09BB913D8}
+-8324855.71068733,4984616.47045394,104,183,Morris County Soil Survey Map 098, , , ,0,Soils map,{23F72B50-40F0-471D-8351-139CB6FA5EC7}
+-8321931.75194972,4984668.60087566,105,184,Morris County Soil Survey Map 099, , , ,0,Soils map,{42062283-92F9-491E-86C3-33D21DCFA169}
+-8315140.71348756,4984820.70021181,106,185,Morris County Soil Survey Map 100, , , ,0,Soils map,{89B78A72-03FB-42C4-B220-387FAC629397}
+-8310397.06560198,4985159.16287949,107,186,Morris County Soil Survey Map 101, , , ,0,Soils map,{ED4FA9C4-9DC6-4037-B08D-368DDC8D028F}
+-8326528.86565757,4985335.14644828,108,187,Morris County Soil Survey Map 102, , , ,0,Soils map,{65BE098E-9A16-4828-A74D-27242A94A949}
+-8326555.77367447,4985431.11989827,109,188,Morris County Soil Survey Map 103, , , ,0,Soils map,{A3783012-CFC2-489C-98E8-16724C3EE2A8}
+-8319092.42516122,4985605.89413489,110,189,Morris County Soil Survey Map 104, , , ,0,Soils map,{DAF58730-B908-44A3-A7F6-72CF44F9EE5F}
+-8350340.89330721,4992150.9504465,111,535,Warren County Soil Survey Map 093, , , ,0,Soils map,{6D971BA5-3E96-4992-B7E9-2A76BEDD6AEF}
+-8343492.57395907,4992254.78819614,112,536,Warren County Soil Survey Map 094, , , ,0,Soils map,{E4225F9D-0142-4719-B878-9B70B6204104}
+-8332282.48758961,4992427.51808769,113,537,Warren County Soil Survey Map 095, , , ,0,Soils map,{585B9A66-9D0C-4A65-9786-DCECE76B346A}
+-8346182.59376317,4992771.00633354,114,538,Warren County Soil Survey Map 096, , , ,0,Soils map,{56363AFC-2C7F-491D-8905-94E433FE03DF}
+-8335810.4198979,4992937.35343967,115,539,Warren County Soil Survey Map 097, , , ,0,Soils map,{F31047B5-4783-4630-8E76-CA4AD52494C3}
+-8335332.3739828,4992942.06793966,116,540,Warren County Soil Survey Map 098, , , ,0,Soils map,{6FE112C2-2168-49DC-BA98-2679714293A1}
+-8335772.50998311,4992947.04392523,117,541,Warren County Soil Survey Map 099, , , ,0,Soils map,{6AF31590-EAEC-4ACF-B9E3-ACF1D0C026A2}
+-8335732.6859251,4992952.93271297,118,542,Warren County Soil Survey Map 100, , , ,0,Soils map,{A836B0C1-53DE-4265-BA3C-97D7CAEB2162}
+-8335703.75155019,4992953.05910632,119,543,Warren County Soil Survey Map 101, , , ,0,Soils map,{5FCA41E2-29FE-4973-9719-F893C2AC09C2}
+-8342894.48460068,4993132.28280656,120,544,Warren County Soil Survey Map 102, , , ,0,Soils map,{47DC28C5-80E1-4BA4-B041-B50277A4906C}
+-8321237.16381298,4985649.79630566,121,190,Morris County Soil Survey Map 105, , , ,0,Soils map,{6F0601CA-6C23-4E4D-9BBE-9D5CF89BA210}
+-8308979.77348719,4985695.5918753,122,191,Morris County Soil Survey Map 106, , , ,0,Soils map,{649A45F1-34E5-41FB-A8C9-44E59F839A76}
+-8319947.3665991,4985814.40558659,123,192,Morris County Soil Survey Map 107, , , ,0,Soils map,{3872C86C-9F62-4954-AD6C-66FBD6184B90}
+-8320016.60678564,4985859.58193478,124,193,Morris County Soil Survey Map 108, , , ,0,Soils map,{13197BDA-005D-4298-BA57-4F83C68029FE}
+-8320260.78535745,4985910.94593903,125,194,Morris County Soil Survey Map 109, , , ,0,Soils map,{685AEE62-995D-47C6-8392-3A4966DB1DCF}
+-8324309.97750063,4985984.49646842,126,195,Morris County Soil Survey Map 110, , , ,0,Soils map,{50573575-FFC8-4025-BC99-376DA884CFD6}
+-8320170.73082254,4986031.2845117,127,196,Morris County Soil Survey Map 111, , , ,0,Soils map,{698E4B28-D0E6-47EF-BE0D-6F95B2E7063B}
+-8324424.20656186,4986215.93967099,128,197,Morris County Soil Survey Map 112, , , ,0,Soils map,{4134DD8F-8094-4D15-AFEF-BCA0B4112790}
+-8319154.04086716,4986558.30533896,129,198,Morris County Soil Survey Map 113, , , ,0,Soils map,{8FB92F25-6F20-4582-8B83-612791B40F42}
+-8319337.02701836,4986668.80966026,130,199,Morris County Soil Survey Map 114, , , ,0,Soils map,{CBA8F813-7F63-4FE7-9E2D-0D4BF5B170D4}
+-8318827.90436568,4986676.04418367,131,200,Morris County Soil Survey Map 115, , , ,0,Soils map,{3E4D231F-E177-4375-91FF-6D61A8D87421}
+-8313905.64860748,4986741.29504613,132,201,Morris County Soil Survey Map 116, , , ,0,Soils map,{6EA7B300-2070-494E-9D0F-282B6BF4DCB3}
+-8319065.71333709,4986733.47088444,133,202,Morris County Soil Survey Map 117, , , ,0,Soils map,{ED268640-3284-4B20-BC78-741551D50765}
+-8324339.90720047,4987204.92980509,134,203,Morris County Soil Survey Map 118, , , ,0,Soils map,{3D48A570-D41A-467E-8106-5DAC586E1D0E}
+-8319828.68055022,4987379.98433528,135,204,Morris County Soil Survey Map 119, , , ,0,Soils map,{F8478445-8EA0-4C56-85CB-C246D898A0F9}
+-8322604.40591668,4987486.44898963,136,205,Morris County Soil Survey Map 120, , , ,0,Soils map,{589E6D9E-E95D-48D1-B983-B584AAFB4FCC}
+-8326295.51670067,4989101.73859427,137,206,Morris County Soil Survey Map 121, , , ,0,Soils map,{CD60B039-A755-4389-80BA-610ADF47018E}
+-8326408.60512843,4989125.66318131,138,207,Morris County Soil Survey Map 122, , , ,0,Soils map,{D8F5AFDB-8255-4730-81F8-181BB2408ABA}
+-8326066.49857377,4989410.43648246,139,208,Morris County Soil Survey Map 123, , , ,0,Soils map,{E21419D5-6034-4481-858A-E5F089CF8C05}
+-8326002.30041334,4989524.10053488,140,209,Morris County Soil Survey Map 124, , , ,0,Soils map,{F8CC873F-F18B-4684-8645-A9E62DCFEA80}
+-8325974.39917515,4989629.53993786,141,210,Morris County Soil Survey Map 125, , , ,0,Soils map,{9C0E705F-686A-4CB6-89E0-B62D5DB76146}
+-8325938.24934978,4989682.33457089,142,211,Morris County Soil Survey Map 126, , , ,0,Soils map,{FD41CA5C-9258-4440-83BB-8F00D5D2DADE}
+-8324864.44328794,4990380.78995212,143,212,Morris County Soil Survey Map 127, , , ,0,Soils map,{1E770DA4-77A1-4AD8-965F-2605F3E6E516}
+-8325640.1390283,4991565.56879479,144,213,Morris County Soil Survey Map 128, , , ,0,Soils map,{BB2FA8F6-E824-4CA0-B9B5-2E72BD28B888}
+-8325704.81086528,4991589.66874873,145,214,Morris County Soil Survey Map 129, , , ,0,Soils map,{D3670386-424A-4967-8284-5F6C5ED5A5C2}
+-8325664.53506849,4991618.17112322,146,215,Morris County Soil Survey Map 130, , , ,0,Soils map,{ECE4A043-A8DE-4277-B6E2-B7897A1A6D85}
+-8326055.90240473,4993481.22524955,147,216,Morris County Soil Survey Map 131, , , ,0,Soils map,{118DBC25-8A6E-4673-A3CB-F9333DF86F4F}
+-8322277.69853029,4994973.60819688,148,217,Morris County Soil Survey Map 132, , , ,0,Soils map,{EB079057-BEDF-42F2-937B-85C338B1BD0E}
+-8384172.66861552,4821133.49320608,149,219,Mt. Laurel Sand Spring, ,"Small spring reported in 1931, but may not be present in 2011","A strong spring issues from a cave in the bank just above stream level where the Woodstown-Swedesboro road crosses Oldmans Creek. The spring water issues from an iron-stained, medium grained sand containing a considerable sprinkling of galuconite and a l",0,Air photo,{A309D99C-1A6D-4853-9D81-4C846EB0AF4D}
+-8348508.08416666,4984867.09237107,150,221,Mt. Pisgah Spring,Rt. 31,On the side of Mt. Pisgah between the Ahles mine and Rt. 31.,Off of dirt Rd.,0,GPS,{7D5BC1B1-C135-42A6-87CA-449403DAC80A}
+-8330231.29199545,4993888.85271315,151,222,Mt. Rascal Spring,Mt Rascal Road,"Reported at the site is an old stone spring house which continues to bubble up clear, cool water.",Located in Mt. Rascal Preserve.,720,Air photo,{0A009E46-E2E6-44B6-BAFE-DA0F62E3F39A}
+-8324951.68710426,4981824.66873774,152,223,Morris County MUA Springhouse,Schooleys Mountain Rd.,Schooleys Mountain Water Supply Springhouse. Only spring used as potable wate supply by a municipality as of 2010.,Unknown of it is still used.,0,GPS,{5F364A7D-694B-402F-9201-2BA74E2A8BA0}
+-8325015.23162083,5015933.00526044,153,224,Muckshaw Pond 1, ,Muckshaw Ponds (TNC)- maybe more of a sinkhole pond., ,0,Air photo,{850B6CD6-7C3C-4A56-BF96-CA005D55B3C7}
+-8324973.28747378,5016167.64085841,154,225,Muckshaw Pond 2, ,Muckshaw Ponds (TNC)- maybe more of a sinkhole pond., ,0,Air photo,{A1D1E49E-F8C5-4EA6-BDCD-991DE31751A6}
+-8324431.92938381,5016532.12921799,155,226,Muckshaw Pond 3, ,Muckshaw Ponds (TNC)- maybe more of a sinkhole pond., ,0,Air photo,{49B594E7-3DEB-4CAA-8F2E-53EA5F8148E6}
+-8254558.2471451,4892202.87012775,156,227,Mulligan Spring, ,"Where Hurley Pond Rd. crosses creek, power lines, and rail road bed.",site visit indicated more of a discharge channel from a large seep/boggy area than a discrete spring. There does appear to be a dug pond where flow increases and then runs parralell to railroad bed before discharging to creek.,0,Air photo,{7A7A9371-C2D8-43DD-B710-A1B54B296DF8}
+-8258775.46925556,5003041.62026902,157,228,National Spring Water Company, ,Former site o f the National Spring Water Co. bottled water company.,"It  takes water from the spring in Haledon NJ, discharge once fed Tilt Street Spring house with a pipe across the street",0,GPS,{E9709A54-9370-48F9-9862-E03EE6B8F77C}
+-8402117.80598641,4805099.70359711,158,420,NHD Spring 1, ,Spring from National Hydrologic Dataset- not a likely spring location, ,0,Air photo,{93DBB615-DBE4-44D9-B869-4D12DC0E26C4}
+-8253201.50613602,4876461.84724304,159,421,NHD Spring 2, ,Spring from National Hydrologic Dataset- not a likely spring location, ,0,Air photo,{AD4943B5-69B7-415A-8B8C-8D3CCB37448D}
+-8243786.09985375,4898128.58015294,160,422,Indian Lady Hill (NHD 3), ,"Location of Indian Lady Hill Spring Water Company, W Bangs Ave, Neptune, Monmouth County. Numerous springs/seeps downslope.",Series of springs and seeps on hillslope above Rt. 18,0,GPS,{1C0FE2B1-B922-4DDC-B107-B090F434D160}
+-8251680.1283398,4979863.68725886,161,423,North Arlington Spring,Porete Ave.,Water drains out from parking lot to storm drain.- May be associated with Schyuler Copper mine drainage.,Reported flows year round,0,GPS,{9647C804-3420-49C7-AA6A-8134F4A888A7}
+-8327736.5440401,4917214.64947249,162,424,Pennington Quarry Spring,Route 31,Spring mapped by Greg Herman in the 90's.  Spring may or may not exist today., ,0,GPS,{ECEB53F4-1C6E-426A-8D23-9FE70D3D59B7}
+-8289930.34963141,5046346.59991091,163,425,Pochuck Crossing, ,Appalachian Trail., ,0,Air photo,{F649E883-57FA-4D72-B74C-4E7053B26B95}
+-8273436.12946541,4935381.07860876,164,426,Possible Spring, ,From Linda Johnson (BM) possible spring- does not appear to be spring as of 4/19/12 visit., ,0,Air photo,{886DF1D0-5C9D-40C6-9B66-F9E2F2DEAF5E}
+-8267954.06490517,4978586.72258803,165,427,Rock Spring Water Co. Mineral Water Spring,Northfield Ave.,"Sold as bottled mineral water by Rock Spring Water Company.  Started in 1939 water was used to make soda, now just bottles spring water. Recently sold, status unknown.", ,0,GPS,{F8D4B228-4A65-48F8-8E18-6DFC57ADA73C}
+-8324271.03563764,4982393.14383485,166,428,Schooleys Mountain Park Spring 1,Camp Washington Rd.,Small spring in Schooley's Mountain County Park., ,960,GPS,{06C5CB3C-D815-4731-9231-1C7D1E4E51A2}
+-8315704.96986268,5055682.41729844,167,2,Ayers Farm Springs,Rt. 23,Ayers Farm section of High Point State Park., ,0,Air photo,{60E8DBBB-506E-45AD-8C3B-0B313E6C0B52}
+-8316817.74778135,4972396.31300906,168,3,Bamboo Brook, ,Small spring house near edge of stream., ,0,Air photo,{7E9593E8-DBA4-4DEA-9F36-253AB04EE7C4}
+-8342151.35435954,4844763.40020613,169,4,Beagle Club Woods,Longview Rd.,Extensive wooded swamp with spring seepage areas. Uplands directly to the west of the seepage areas are densely developed.Primary boundary includes extent of wetland habitat containing occurrence of f, ,295,GPS,{BBFC2640-C3D5-4D64-80A2-C234F71F2CCD}
+-8327170.01686675,5013667.3030137,170,5,Big Bear Pond, ,"Whittingham WMA- not a spring, sinkhole pond.", ,0,Air photo,{BF22FC90-7D0E-41AE-AB0C-432B203B1E0E}
+-8326654.80466045,5013791.40942073,171,6,Big Spring (Springdale), ,"Not a spring probably a sink hole pond, NHD misidentifes this as Big Spring #56, cave entrance reported near spring.", ,0,Air photo,{57778C05-6FBB-465C-9A59-0DF456A9DA94}
+-8306874.28129115,5031316.22217754,172,7,Big Springs (North Church),Rt. 94,"Large spring issues from 1 foot opening, large spring near North Church- ""big Spring"", also reported at 22:22:516",At the corner of Rt. 94 and Big Spring Rd. The sprong is adjacent to rt 94  where it fills a pond.,540,Air photo,{C7DB48D3-2819-4E8A-A061-DB09A731CBC8}
+-8335169.89423663,4790817.46534436,173,10,Blue Hole Danger Hole, ,"Blue Hole an upwelling within a modern incised stream channel, Richland, Atlantic Co.", ,0,Air photo,{194CD83E-441F-4840-8787-AC877AF39A19}
+-8331574.62282975,4786849.14965279,174,11,Blue Hole Davenport Hole, ,"Blue Hole Estelle Ave south of Danger Hole, Hamilton Twp, NJ", ,0,Air photo,{D4687D9C-7503-4FF0-B26C-1B9AA1A18837}
+-8336254.62045636,5016827.46738456,175,16,Bonnie Brook Spring,"Maple Ave, Cty 521","Very large spring issues from 3 foot opening, south of Stillwater.","Spring discharges from side of hill in stone springhouse and then into built pond, water then discahrges via two channels to series of ponds.",421,GPS,{D7A49245-3DFE-426A-8986-7C92EA77A1C5}
+-8329931.3836629,5051307.67769323,176,17,Brau Kettle, ,"Spring and sink hole in Delaware Water Gap NRA 100 ft from River Road near Jaeger Road. Known historically in area. Sandyston Township, Sussex County.","Conical shapped hole with discharge at bottom, spring periodically overflows out oultet channel, but often is empty.",0,GPS,{E2F550C1-AC2B-42C6-8186-02FB75C7625A}
+-8280268.27791273,5025734.72544402,177,18,Bubbling Springs,Macopin Rd.,"Bubbling Springs is located in the Bubbling Springs Recreation Area on
+Macopin Road, West Milford, Passaic County.",There was no history about the spring in the literature. However 1930’s aerial photos show farmland  adjacent to the spring. Most likely the spring was associated with the farm.,960,GPS,{B64020FC-A171-4F03-8AD2-011934FAD10E}
+-8356168.68264864,4982749.22802985,178,19,Buckhorn Springs, ,Once a water supply for Belvidere., ,0,Air photo,{D54C9A60-037C-45C6-866E-C9F6412C35A9}
+-8369946.4369957,4958576.53890929,179,20,Carpentersville Spring - Musky Trout Hatchery, ,"fish hatchery at Carpentersville, Warren County, same as Carpentersville, Warren County immediately adjacent to the Belvidere Division of the Penn RR and a few rods south of the station.",currently hatchery is operated by Muskey Hatchery,170,GPS,{1321B455-90A6-4CA3-B3A7-AA9C7EBC47B6}
+-8301907.83899595,4982430.43950329,180,21,Cold Hill Reserve, ,Parking lot for park., ,0,Air photo,{790C3D37-0AD4-4D28-B68B-1DBD9C6D0A0D}
+-8305628.72010072,5035737.92076431,181,22,Congleton Preserve Spring,Beaver Run Rd.,On Beaver Run Road is a spring house. On NLTrust land ? Approx location., ,0,Air photo,{895B0CDA-B687-494F-8A9D-0F71C3257178}
+-8331768.25733197,5025019.22300537,182,23,Crystal Spring Sink, ,Water can be heard flowing through the rocks.,Also known as Herkimer Diamond Spring.,700,GPS,{E45CE8A4-DA42-4211-B1A6-9A33424EBE7B}
+-8349374.59054167,4839390.77107266,183,24,Crystal Springs,Elma Ave. and Lakeview Ave.,"Spring discharges from base of small stone grotto. Located in Crystal Springs Park, Laurel Springs, Camden County.",Small spring discharging from built grotto and pool. Identified in the 1899 State Geologist report and photo. Reportedly used as a dump and then rebuilt in the 1950s. Walt Whitman used. Discharges to the North Branch of Big Timber Creek.  Orginal grotto,0,GPS,{B376A0DE-AF15-4E8E-86DF-BDB4228571C1}
+-8333172.28317785,4977370.75218454,184,25,Crystal Springs Section of Teetertown Preserve,Califon Rd.,Spring discharges from small concrete box upslope of stream,"Spring discharges from concrete box 50 ft upslope from stream, park literature reports seven springs fed ponds on site",0,GPS,{BE1D15DC-837E-4568-9705-4B4BF6FA4218}
+-8284826.88636552,4955542.78673098,185,26,Watchung Spring,Rt. 22,"Watchung Spring Water Company, 434 W 4th St, Plainfield NJ. This is the office location, exact spring location unknown.",Probably near the grounds of  Mt. St. Mary's Academy .Water was bottled at this spring around 1910. Company moved to Ocean county.,0,Topo map,{1B528F35-BB62-4418-84C4-BFDC83E73CA5}
+-8269730.17801849,4942064.33556811,186,27,Mullins Springs Water Company, ,"Mullins Springs Water Company, 514 MeKeon St. Perth Amboy NJ.", ,0,Air photo,{8EF67AD5-6259-48AD-BDB8-0C24B22BC224}
+-8346926.59508301,4968972.86403036,187,28,Dr Sharp Spring, ,"2 miles northwest of Asbury Warren County, Dr Sharp Property, possible location",3/15/12 visit found no signs of spring,0,Air photo,{89C29E83-5EB2-43F7-93B3-FB8D3D108D94}
+-8347898.65247286,4954350.2719153,188,31,Dalton Spring 06, ,small spring., ,0,Air photo,{61C52CAF-BA12-4436-B5DF-DD4F3B17D9C8}
+-8361057.9900192,4965088.86989577,189,32,Kennedy Mill-Stewartsville Spring,411 Main Street,"Large spring between Kennedy Mills and Stewartsville, Greenwich, NJ, springs emerge at base of cliff by road and into large channel that drains to Pohatcong Creek.", ,260,GPS,{947849A6-575F-431E-AE73-0D4A4B009BE7}
+-8347722.43237378,4969288.63047391,190,33,Shurts Rd. Spring, ,"Series of springs disharge along base of cliff and drain to small creek that flows to Musconetcong River. Franklin Township, Warren County.",May also be known as Hampton Spring.,360,GPS,{3CD9D58A-15DB-4A18-9809-4111E7B2C94E}
+-8357361.19265161,4970124.90482612,191,34,Edison Cement Quarry Spring, ,Edison cement quarry.,Spring in quarry.,0,Air photo,{7777C69E-6169-4621-8321-659F2249C9DB}
+-8369470.31206186,4971277.429987,192,36,Marble Hill Spring, ,"Large spring 1 mile north of Phillisburg and 1/8 mile south of the old Lizzie Clay Quarry 20' below the Marble Hill and River Roads intersection. Lopatcong Township, Warren County.",Spring discharges out of two pipes at base of concrete block building. Several reported attempts to use as bottling plant.,230,GPS,{EC6143CE-24FC-4D46-88BD-09C88860AE2D}
+-8280586.59460859,5000335.22752968,193,37,Capstick Spring, ,Spring discharging from pipe in side of hill 100 ft north of railroad tracks on east side of Taylortown Rd. No longer exists.,"Also refferred to as Montville spring. Pipe removed in 70's. Belgium block channel at side of road reportly flows almost year round; may also receive drainage from local tiling. Numerois seeps along same slope observed nearby.",0,GPS,{115813DA-2CD6-45E8-88A0-04E0E4443E04}
+-8342092.30858545,5000269.78905384,194,38,Shiloh Rd. Spring, ,"Numerous springs adjacent to marshy tract about 2000 feet west of Shiloh, Hope Township, Warren County.", ,0,Air photo,{CFE41408-4A92-45D8-9222-05B448C9A15E}
+-8329747.14447503,5011537.85810781,195,39,Swimming Pool Spring, ,Large spring discharges from cave into two large man made pools.,"Spring discharges from cave at base of cliff, Swimming Pool Cave",600,GPS,{52BF90C0-3CC8-46CB-9E0C-5F337CCCD6B4}
+-8265455.96620593,5013779.73929114,196,40,Kanouse Spring,Long Hill Rd & Grove St,"Also known as Vernum Spring and Indian Spring; historically used for spring water bottling, Oakland water supply, gold fish and water cress; concrete and stone pools still exist.","two trout ponds, bottled water, Indian Spring 150 gpm per ME Johnson, not variable according to local reports, numerous springs and seeps along hillside.",0,GPS,{535362A3-9F1A-4E1A-8F3D-66C4CB3E73DC}
+-8333055.90608686,5017562.07830023,197,41,Stillwater Spring, ,"Large spring at Stillwater Station, Large spring on south side of road, did not dry up during drought. Spring discharges at base of cliff into cement pool and house.", ,0,GPS,{A4F34FA9-8B29-49E1-8047-752A47355698}
+-8313265.13581,5029580.7263188,198,42,Dalton Spring 18, ,In fields., ,0,Air photo,{CA654939-6425-4B38-B73C-B4E23891E631}
+-8313667.15220524,5029580.73908368,199,43,Dalton Spring 19, ,Two medium sized springs., ,0,Air photo,{EDF21242-D10C-4D0C-BC8D-5D9F2882E607}
+-8312028.20839904,5030689.00383808,200,44,Dalton Spring 20, ,Small spring., ,0,Air photo,{B361B3AE-BEC9-4D65-89B5-F84DE32E4269}
+-8308317.45222943,5033973.46754318,201,45,Wickham Spring, ,"Large spring near Harmonyvale, Mr Wickham owner", ,0,Air photo,{598602B4-CDEC-472B-B66E-38008F2A01CB}
+-8327675.29407608,5037259.03544044,202,46,Lake Kittatinny Spring, ,"Spring near upper end of Lake Kittatinny, about 300' east of road at site of foundation of house, discharges in fine grained sand",same as DD 23 spring #47,0,Air photo,{2F4A1A57-B4F1-447F-AAF7-F263BAD35C9D}
+-8327675.29407608,5037259.03544044,203,47,Dalton Spring 23, ,Spring from fine grained sand., ,0,Air photo,{BFD33491-7BF6-4FEB-914C-0224F7E589C4}
+-8305410.74534852,5041080.02011582,204,48,Dalton Spring 24, ,Large spring., ,0,Air photo,{82A783C4-CB10-4B78-AC2C-C8307A4CED4A}
+-8301700.01320691,5049836.81040084,205,49,Dalton Spring 25, ,Small-med spring., ,0,Air photo,{DEDCA5BE-F8E6-407C-81DE-5D976B63DA41}
+-8330464.05600865,5009111.05153044,206,50,Dark Moon Fen Spring, ,Private adj to TNC/RVC, ,0,Air photo,{E16A5E58-AAAD-4E49-A03C-9B5617D4D058}
+-8330657.5068686,5009184.97139556,207,51,Dark Moon Spring Ditch, ,Johnsonburg TNC/RVC, ,0,Air photo,{998C41D8-9C7B-4A0D-98D5-436C61B4340F}
+-8332705.21743835,5044851.37026734,208,52,Dingman's Spring,Old Mine Rd.,Located in the Delaware Water Gap National Recreation Area. Spring discharges in small cave above nearby dry creek channel.,"600ft uphill from Old Mine Rd, near Dingmans Ferry Bridge. Used for water supply at Dingmand Ferry Bridge. Pipes and collection basins still visible.",520,GPS,{50754F80-EA4C-4FF3-A974-EE79D5F4808A}
+-8306141.02102581,5030778.13136458,209,53,Domber 1, ,possible spring identified from air photos., ,0,Air photo,{F1657B5F-ECBD-48C2-A7B5-2A1AF3E09A9F}
+-8305992.80969843,5030896.44729312,210,54,Domber 2, ,possible spring identified from air photos., ,0,Air photo,{52581DD5-A70E-4546-9E25-E590F7C9654A}
+-8305839.53801972,5031060.99053429,211,55,Domber 3, ,possible spring identified from air photos., ,0,Air photo,{6D0252DE-10DA-4294-9CBC-D580F9013169}
+-8326307.79670154,5013849.30670738,212,56,Big Spring (Wittingham), ,"Spring discharges at base of small cliff into open channel. Located in Whittingham WMA, Fredon Township, Sussex County.","spring discharges at base of small outcrop to channel; channel may be enlarged from earlier dredging operations (diatomaceaus earth); NHD misidentifies this spring at location of Big Bear Pond ID#5.",0,GPS,{FB3D12F3-2FF1-42FF-8EA5-7F99B3D27947}
+-8356088.0510533,4823069.58037201,213,57,Downer, ,Red maple/Atlantic white cedar swamp with sphagnous spring seeps.Primary bounds include extent of known wetland habitat for rare plant species. Secondary bounds include lands draining toward the wetla, ,0,Air photo,{870AC42D-FE44-4FB8-8CAE-501CAD872BBA}
+-8328601.67818777,5022995.41809223,214,58,Duck Pond, ,Swartswood SP., ,0,Air photo,{AE297497-E4C8-467D-A0A7-4128B615FF8A}
+-8335995.05097774,5007618.82699335,215,60,Federal Springs,"Kerrs Corner Road, old railroad tract",Small spring near Johnsonburg that disharges into pond.,"Federal Springs is located immediately south of a railroad line just north of Johnsonburg, Frelinghusen Township, may also be 21:44:198,",580,GPS,{E62E8274-137A-439F-9BDC-0B45BBB73572}
+-8326244.37325339,5011282.57734499,216,62,First Time Fen Spring, ,RVC/Green Acres., ,0,GPS,{6F58B893-6A81-46BC-BDB3-F67E6CCF4691}
+-8242929.40592265,5002117.32682471,217,64,George Washington Spring- Van Saun Park,216 Forest Ave.,"Spring discharges in small pool located in Van Saun Park, Riveredge Boro, Bergen County.",Garden setting surrounding a natural spring reported to have been used by the Continental Army of General George Washington in 1780.,39,GPS,{BD418506-1F39-41B1-AF04-17A27AA7E2A6}
+-8237640.97426277,4988271.83389724,218,65,Great Bear Spring Water Plant  -  Trinity Spring,Corner of Ray Ave. and Shaler Blvd.,Spring is located in Ridgefield Nature Center under concrete vault and piped to Wolf Creek 100 yards downstream.,"Used as bottling source for Great Bear Spring Water Plant. Also known as Trinity Spring. In NJGS Perm notes HK ""in wooded lot at bottom on huge concrete caisson"". Also known as Trinity Spring.",52,GPS,{16FB2F88-B5B9-4F54-B6BC-F1F0B75F8A27}
+-8330458.12831123,4989147.76959211,219,66,Hacketstown Hatchery_West5, ,One of several springs that flows to  the Charles O'Hayford State Fish Hatchery., ,500,GPS,{02A98FCC-071A-4AB0-9055-302223C155F8}
+-8331067.76527052,4989230.29442237,220,67,Hacketstown Hatchery_West1, ,One of several springs that flows to  the Charles O'Hayford State Fish Hatchery., ,500,GPS,{4B060CD3-7C18-4A2B-B67A-177330B5997B}
+-8331014.4833758,4989231.15035206,221,68,Hacketstown Hatchery_West2, ,One of several springs that flows to  the Charles O'Hayford State Fish Hatchery., ,500,GPS,{05366D23-4426-4FB5-A492-AA13D77ACD07}
+-8330959.67579007,4989193.07909713,222,69,Hacketstown Hatchery_West3, ,One of several springs that flows to  the Charles O'Hayford State Fish Hatchery., ,500,GPS,{E1D928AE-9741-4971-ACB6-621EC2CB041D}
+-8330937.15835849,4989169.60987272,223,70,Hacketstown Hatchery_West4, ,One of several springs that flows to  the Charles O'Hayford State Fish Hatchery., ,500,GPS,{09B8E1BA-3C4D-4584-9700-7A88328F7E2B}
+-8258679.82388996,5002976.76363803,224,71,Haledon Town Spring,Tilt and Southside Rds.,Used as a drinking water source for town residents if they fill bottles.  Town spring is now dry.  National Spring Water Company collects water to sell as spring water nearby., ,225,GPS,{49A608CD-10AC-4E5C-A781-3CD44B9704D7}
+-8341514.90064147,5011097.22948389,225,72,Hardwick Meadow, ,"Limestone wetland with several small streamlets, some originating from seepage swamps off site; scenic; surrounding land use is residential/agricultural. Limestone wetland with extensive braided strea", ,0,GPS,{92AE9772-9523-4C2D-A17B-E1017E321CDB}
+-8316477.03858099,4980313.37577877,226,73,Hedges Mine Spring,Route 513,"Water bubbling out of the ground next to the Hedges mine, the drainage area is orange. Located behind the Chester library.","Sampled July 29, 2010.",839,GPS,{8631C324-F294-4180-8415-52D1BC887B47}
+-8239772.16252753,4926075.41386799,227,74,Henry Hudson Spring,Bayside Drive,Spring emerges from wall/pipe/grotto and then flows through channel to Raritan Bay. Reportedly used by Henry Hudson with historical marker at site.,"Historical marker on the site; ""In 1609, Henry Hudson drew water from this spring. Lenni Lenape Indians obtained water from this site. Packet ships continued to use the spring into the 1800's",31,GPS,{B66CE814-EEFB-49FF-BA48-4DABADC778D4}
+-8348370.31044583,5007613.82845235,228,75,Kalarama Spring, ,Reported 20 ft. above spring., ,0,Air photo,{7E2F9DAE-D546-4369-A567-C42837C2CBCE}
+-8244754.52342905,4901245.77729828,229,76,Kepwel Spring, ,"Kepwel Spring, Kepwel Spring previously Cold Indian Spring, Location From Brainygeography.com.", ,0,Air photo,{F955D373-A6FC-4D36-B96C-1A8E9603407E}
+-8326451.78190712,5002757.64151503,230,606,Warren County Soil Survey Map 164, , , ,0,Soils map,{6C787A63-A9D2-4343-8960-D7872AF2B390}
+-8326437.99416785,5002817.37708574,231,607,Warren County Soil Survey Map 165, , , ,0,Soils map,{FFF5DDC2-D672-4762-A209-D5ED26D27DB9}
+-8326095.53496789,5002909.83029614,232,608,Warren County Soil Survey Map 166, , , ,0,Soils map,{8E083C50-4A75-41F7-A8AE-1D77267AA0F0}
+-8326410.38210326,5002926.31611198,233,609,Warren County Soil Survey Map 167, , , ,0,Soils map,{2483097A-EADB-439C-81C0-4E13F3CA6C7B}
+-8326389.62189412,5002993.09879498,234,610,Warren County Soil Survey Map 168, , , ,0,Soils map,{3EAAFFEB-4CCF-43ED-A571-7EEB472717B5}
+-8335062.12829089,5004528.41185254,235,611,Warren County Soil Survey Map 169, , , ,0,Soils map,{8BB6DC93-9FB9-439C-81ED-7A084B5958AD}
+-8335080.35511225,5004612.88098368,236,612,Warren County Soil Survey Map 170, , , ,0,Soils map,{2FD82537-1E4E-412A-B0B5-951516359BE2}
+-8335131.90382707,5004730.51428423,237,613,Warren County Soil Survey Map 171, , , ,0,Soils map,{B1519473-B203-44E3-B125-6E4C4C808413}
+-8338472.57280663,5004716.8016331,238,614,Warren County Soil Survey Map 172, , , ,0,Soils map,{21A33C36-ED24-4D99-8E57-B86C46863680}
+-8330969.32199544,5007763.41408949,239,615,Warren County Soil Survey Map 173, , , ,0,Soils map,{EFF9D375-E950-408E-B17C-860E356163AC}
+-8359279.68211281,5010869.3838463,240,616,Warren County Soil Survey Map 174, , , ,0,Soils map,{F37A53E9-6C79-45C1-AC60-E9C5F8175D57}
+-8359191.13471462,5010975.40569417,241,617,Warren County Soil Survey Map 175, , , ,0,Soils map,{278BFF0C-B26C-4008-8C8E-06B88A295899}
+-8353801.52387928,5011066.0788853,242,618,Warren County Soil Survey Map 176, , , ,0,Soils map,{6AAF0146-F3F3-475A-B4B2-F2053AD138A5}
+-8358802.40623127,5011092.51889435,243,619,Warren County Soil Survey Map 177, , , ,0,Soils map,{9408646C-3072-469D-8923-96DE9EED6E23}
+-8359180.60272211,5011230.24504897,244,620,Warren County Soil Survey Map 178, , , ,0,Soils map,{7E2DAA0F-FA89-4CC9-AC70-6410E8AC31AF}
+-8359046.81645214,5011376.98962101,245,621,Warren County Soil Survey Map 179, , , ,0,Soils map,{EAFDDCBB-8D47-4411-9764-48360A7CEE6C}
+-8348144.04882318,5013464.99983157,246,622,Warren County Soil Survey Map 180, , , ,0,Soils map,{FBB8DCD4-3558-4259-83B9-0C2AAA337366}
+-8348109.51909501,5013551.3105895,247,623,Warren County Soil Survey Map 181, , , ,0,Soils map,{7CEC47CD-BEEA-40CD-AEF6-6F6534A6B27B}
+-8336068.81385851,5013866.60687503,248,624,Warren County Soil Survey Map 182, , , ,0,Soils map,{BFB15A03-8332-46BF-BBED-F047E6AD4CC9}
+-8353273.60799085,5015569.97546097,249,625,Warren County Soil Survey Map 183, , , ,0,Soils map,{9A74C804-0502-4EA2-9B89-2F52F1592F4F}
+-8353138.47524853,5015616.12353854,250,626,Warren County Soil Survey Map 184, , , ,0,Soils map,{E2C00AF5-9AE6-4068-9AB7-10B1E766D306}
+-8352796.9669214,5015865.05757421,251,627,Warren County Soil Survey Map 185, , , ,0,Soils map,{F7191004-E875-479D-85AD-3A5ECAEE4B81}
+-8352618.74533208,5017063.07818309,252,628,Warren County Soil Survey Map 186, , , ,0,Soils map,{D134DB88-0A77-40F1-A399-6EC2D0764930}
+-8334323.22269862,4909467.38097591,253,629,Washington Crossing State Park Spring,Route 29,Spring emergences in stone building and then discharges through small stone grotto at edge of D&R Canal.,"Located along Rt. 29 and D&R feeder canal across from the Garret Johnson House in Washington Crossing State Park. Hopewell Township, Mercer County.",0,GPS,{CBB59E38-0496-414F-9BBE-C1B9BF811D1E}
+-8290309.5478335,4955999.54156378,254,630,Washington Rock Spring,Rock Rd. East,"Spring in Washington Rock State Park, George Washington stored gun powder nearby during the revolution. NJ Health Dept. reports show it once used for bottled water from 1903-1921?","Located in Washington Rock State Park in Bound Brook.  Former source of bottled water company. J. P. Petterflou, proprietor.",500,GPS,{6B6EF471-CA7E-43EA-AA90-99B61446E53E}
+-8315337.96624401,4972026.78636267,255,632,Willowwood Arboretum Spring, ,Small spring in cement box in Wildwood Arboretum.,A Morris County Park.,0,GPS,{AA1FE365-7435-40D0-9869-B03A8186E0B3}
+-8328695.38869329,5053519.3871027,256,633,Witte- kp1, , , ,0,GPS,{5D255D4E-4C24-4BF3-A39A-19144FEA4DA8}
+-8327803.86398522,5055219.80334266,257,634,Witte- kp103, , , ,0,GPS,{4EEDC6D8-6135-4F28-9001-CF0A298786E3}
+-8327757.48826728,5055306.22177591,258,635,Witte- kp104, , , ,0,GPS,{3F55CF4D-D2EB-46D1-AF20-F96A79770CF1}
+-8327666.57360505,5055244.50057629,259,636,Witte- kp105, , , ,0,GPS,{5BA65D56-1609-4CBF-834C-B9261DC4A850}
+-8327657.3006871,5054343.26226717,260,637,Witte- kp117, , , ,0,GPS,{11C8A117-E991-46DE-B896-B7CF5B378029}
+-8328321.49970719,5053316.21592938,261,638,Witte- kp122, , , ,0,GPS,{1CC9D551-DF98-4A46-B5D0-427C52EF57C7}
+-8328382.72541556,5052642.2729118,262,639,Witte- kp126, , , ,0,GPS,{E8AE38BC-9847-4BF8-858F-64B8B98557F5}
+-8328397.57551531,5052575.62172284,263,640,Witte- kp127, , , ,0,GPS,{2D088C43-E1D6-4F3F-AC60-6A6A439472A7}
+-8328239.86913151,5052587.95958699,264,641,Witte- kp128, , , ,0,GPS,{B0A9018D-BF0A-4CB0-9189-8A776938CBF8}
+-8332727.94920801,5044834.91916223,265,642,Witte- kp18, ,Duplicate with 52., ,0,GPS,{9B8B8BFB-12FE-4F71-A0FA-5698194B3467}
+-8329545.46898279,5051101.7562926,266,643,Witte- kp215, , , ,0,GPS,{2CAB9250-EA80-4760-8A41-4470C69C5002}
+-8330620.63733068,5049389.49180263,267,644,Witte- kp238, , , ,0,GPS,{80A8A189-A25B-4F5F-BC99-C0A4A24422EF}
+-8330905.79353732,5049481.29214854,268,645,Witte- kp240, , , ,0,GPS,{22DAB111-B165-4557-ABDD-89FE0E34644D}
+-8329685.17490396,5051103.2371382,269,646,Witte- kp31,Jager Rd.,Small spring along Jager Rd.,Small grotto surrounders the spring outlet.,480,GPS,{5F306001-0D7F-4A26-8368-384472BA46E8}
+-8335154.71305804,5039249.37521864,270,647,Witte- kp62, , , ,0,GPS,{132D25D5-E79C-40AF-8204-9C9EF087BA91}
+-8330061.84681547,5050623.2429017,271,648,Witte- kp7, , , ,0,GPS,{15CF9D69-2D41-411E-B03F-C626EE65677A}
+-8342715.60522453,4948449.79078514,272,649,Quakertown Spring, ,Just south of Rt. 579 as road heads to Pittstown., ,0,Air photo,{A279D701-AAE1-468B-A7EE-515497FA3A46}
+-8348778.6531263,4852126.06964771,273,650,Barclay Farm Spring House, ,"Only flows in wet weather, near Cooper river.", ,0,Air photo,{2DE84964-203F-478C-851B-7951CE8EFE6C}
+-8351233.06718636,4851451.09462033,274,651,Croft Farm Spring House, ,"Only flows in wet weather, near Cooper River.", ,0,Topo map,{11E64972-ADAA-488E-AE24-956FCAED8095}
+-8266910.28336438,5031184.68756893,275,654,Ringwood Water Dept. Spring,Margaret King Ave. and Sloatsburg Rd.,Intake 10 (Spring).  Spring was abandoned as a town water department source in 2011., ,0,GPS,{215239CF-CA9B-4FA0-929C-14D8E97195E3}
+-8325014.45617633,4982675.90391728,276,429,Schooleys Mountain Park Spring 2,Camp Washington Rd.,Small spring in Schooley's Mountain County Park., ,960,GPS,{25F2CB2F-1510-4640-A134-3AA659967F47}
+-8324967.76797869,4983414.58247626,277,430,Schooleys Mountain Park Spring 3,Camp Washington Rd.,Small spring in Schooley's Mountain County Park., ,960,GPS,{A9728500-8013-439B-99AD-EEFA987D000A}
+-8324951.02522336,4983342.36940699,278,431,Schooleys Mountain Park Spring 4,Camp Washington Rd.,Small spring in Schooley's Mountain County Park., ,960,GPS,{C55D6DFA-8A85-4446-A079-737A341A7478}
+-8325113.78633748,4983403.7033064,279,432,Schooleys Mountain Park Rae_Spring,Camp Washington Rd.,Small spring in Schooley's Mountain County Park., ,950,GPS,{223B3400-1105-40EC-B80E-EE6B555FBC94}
+-8328773.3437361,4984832.39064409,280,433,Schooleys Mountain Spring, ,"Spring and historic structure no longer exists due to road widening, probable location, historic marker on other side of road, still small seep at base of cliff.","historic spring and spring house dating to native americans and large resort operations in the late 1800s, spring reportedly destroyed by 1930s road widening",0,GPS,{1A24CB88-82CE-47E1-A165-1C0A796E30AB}
+-8347806.66586999,4984456.0409688,281,434,Simmons Spring,129 Lower Denmark Road,"Used as source of water for local residents, some arsenic contamination.", ,0,GPS,{978B0605-55A1-42D2-8BDA-DEE408D2213A}
+-8337530.32061617,4981003.24919074,282,491,Warren County Soil Survey Map 049, , , ,0,Soils map,{7037144E-AF3D-4844-8B47-B19C69CE0C23}
+-8341645.12691646,4981154.43569539,283,492,Warren County Soil Survey Map 050, , , ,0,Soils map,{ABB9FFA3-022B-4EC9-AE91-521B9C912721}
+-8341645.53360797,4981236.88651345,284,493,Warren County Soil Survey Map 051, , , ,0,Soils map,{F2B8F624-B8E7-4AD3-8C38-4555F8A9A44F}
+-8337330.30696928,4981515.71491799,285,494,Warren County Soil Survey Map 052, , , ,0,Soils map,{1EF68A87-A609-49FB-90B4-D375BDA80212}
+-8337348.04970618,4981602.14497771,286,495,Warren County Soil Survey Map 053, , , ,0,Soils map,{DAAD60EB-F422-4007-87E2-8B04C2BD939F}
+-8340581.84124856,4982266.03361968,287,496,Warren County Soil Survey Map 054, , , ,0,Soils map,{9192328D-EB78-4358-9E8A-677E1D41FF7C}
+-8340695.38433896,4982281.64432495,288,497,Warren County Soil Survey Map 055, , , ,0,Soils map,{800E3412-5F59-49D2-9D11-C318B38FD741}
+-8340594.82170398,4982349.4002806,289,498,Warren County Soil Survey Map 056, , , ,0,Soils map,{21209ACF-E036-41D6-BAF1-0286AB5600CC}
+-8340761.71673904,4982611.40958045,290,499,Warren County Soil Survey Map 057, , , ,0,Soils map,{0EE6856A-60FE-4A1F-8404-0C7F022CE138}
+-8340786.32489159,4982647.55158303,291,500,Warren County Soil Survey Map 058, , , ,0,Soils map,{D27E54C0-DA2F-4B20-9547-E521676AC48D}
+-8338069.6420601,4983528.85492074,292,501,Warren County Soil Survey Map 059, , , ,0,Soils map,{2FAD892E-EF47-4338-9686-E1368A1D205E}
+-8338119.82954841,4983746.88109022,293,502,Warren County Soil Survey Map 060, , , ,0,Soils map,{4D2945C3-BC50-471D-AF0B-29FF6274AC0E}
+-8338069.21350996,4983747.11428934,294,503,Warren County Soil Survey Map 061, , , ,0,Soils map,{8F3C27E1-30FA-44F0-B8DD-90E43C775A6E}
+-8338486.67324968,4983777.66991082,295,504,Warren County Soil Survey Map 062, , , ,0,Soils map,{A15513BC-8C96-4774-A3C1-D50E5C08FA1F}
+-8340042.13611024,4983774.62483382,296,505,Warren County Soil Survey Map 063, , , ,0,Soils map,{A9167685-7E8A-4638-AA78-AA4F64664485}
+-8338245.85403974,4983855.40756668,297,506,Warren County Soil Survey Map 064, , , ,0,Soils map,{8BE423B9-09F9-49EF-B547-4C049B2FCCAF}
+-8339665.03803432,4983925.43703089,298,507,Warren County Soil Survey Map 065, , , ,0,Soils map,{F1F9262A-CEEE-47FD-BD0A-85C042522BF7}
+-8338850.64929311,4984286.66748769,299,508,Warren County Soil Survey Map 066, , , ,0,Soils map,{3735D751-12B3-4E4D-890E-4588916F4E87}
+-8338877.35310562,4984398.68697124,300,509,Warren County Soil Survey Map 067, , , ,0,Soils map,{50FD2F50-A7C6-4447-AEE8-220BFF0634AD}
+-8335519.93230502,4986004.69133933,301,510,Warren County Soil Survey Map 068, , , ,0,Soils map,{715646E6-D71B-41D7-86DB-5410D5A56104}
+-8343399.80079394,4986021.39621122,302,511,Warren County Soil Survey Map 069, , , ,0,Soils map,{19012F83-59B1-49B3-BEC1-7FBD709817F6}
+-8343506.30196531,4986022.59919681,303,512,Warren County Soil Survey Map 070, , , ,0,Soils map,{B1CBF8C6-E4A9-48ED-8599-CC65A3194864}
+-8335391.50427407,4986116.16714916,304,513,Warren County Soil Survey Map 071, , , ,0,Soils map,{C5D1DFDB-51F2-4367-A5C7-615F41FE7CFA}
+-8343304.66002332,4986193.63828594,305,514,Warren County Soil Survey Map 072, , , ,0,Soils map,{46E69FF8-B18C-4247-8F9C-8878FB36B65E}
+-8343267.75903431,4987173.57339354,306,515,Warren County Soil Survey Map 073, , , ,0,Soils map,{4900502B-4C17-48C3-B6F7-EF1FFA5EB1F8}
+-8345252.10093494,4987664.46973267,307,516,Warren County Soil Survey Map 074, , , ,0,Soils map,{E1E135ED-8072-4527-87B1-A2407CF0A92A}
+-8345191.59246896,4987778.72891902,308,517,Warren County Soil Survey Map 075, , , ,0,Soils map,{B30B33F0-954B-4997-9652-B22D721C3E54}
+-8339846.4283641,4988696.74903281,309,518,Warren County Soil Survey Map 076, , , ,0,Soils map,{D4B24756-5DC9-414A-B915-42B9F8576FB8}
+-8338926.59303191,4989748.27223593,310,519,Warren County Soil Survey Map 077, , , ,0,Soils map,{D7594DF0-C2C5-4930-AC80-7279795AB031}
+-8335354.63247072,4990013.66804904,311,520,Warren County Soil Survey Map 078, , , ,0,Soils map,{DF02EBAF-0F11-4640-98B9-7C0E5FF8B741}
+-8338050.61051427,4990830.2926369,312,521,Warren County Soil Survey Map 079, , , ,0,Soils map,{A97E42D5-7778-4386-A08E-F5B9C3BF6061}
+-8333429.26341398,4991018.05278996,313,522,Warren County Soil Survey Map 080, , , ,0,Soils map,{658C33FA-643F-4E46-A31E-FCCFE0A8D26C}
+-8334730.13334887,4991017.10775373,314,523,Warren County Soil Survey Map 081, , , ,0,Soils map,{58634722-261E-4160-9B96-85E6AF75A13D}
+-8334571.63475152,4991070.89972412,315,524,Warren County Soil Survey Map 082, , , ,0,Soils map,{F5CA6EB4-E9A6-44AF-9273-69730A69B222}
+-8350802.43254496,4991035.73798905,316,525,Warren County Soil Survey Map 083, , , ,0,Soils map,{D8D7D416-7FB4-409C-A783-BBB1341FEC9D}
+-8333201.43658805,4991186.56095845,317,526,Warren County Soil Survey Map 084, , , ,0,Soils map,{C3E1C647-3466-4387-98C6-08C390FC5A84}
+-8337156.11824429,4991255.76101634,318,527,Warren County Soil Survey Map 085, , , ,0,Soils map,{81B3AEE7-6515-4226-8C51-241BCEC27C12}
+-8342143.61864449,4991269.38642801,319,528,Warren County Soil Survey Map 086, , , ,0,Soils map,{DD2AA293-357F-4F2E-B8FF-59D77B502E46}
+-8342160.96418885,4991273.19129555,320,529,Warren County Soil Survey Map 087, , , ,0,Soils map,{36D8C09B-6D8E-4668-B375-EE6F02B34FCF}
+-8350802.01717056,4991429.96393338,321,530,Warren County Soil Survey Map 088, , , ,0,Soils map,{42B2314B-1356-4F04-9DF8-3ADCA4BBE1A6}
+-8350914.02295481,4991529.33535339,322,531,Warren County Soil Survey Map 089, , , ,0,Soils map,{F1C02FF5-1DFF-4A27-9419-206DA053ECE8}
+-8341339.60780022,4992000.95808783,323,532,Warren County Soil Survey Map 090, , , ,0,Soils map,{8C8224F8-E47F-4725-9025-452B5B79A059}
+-8350460.57621918,4992067.43159584,324,533,Warren County Soil Survey Map 091, , , ,0,Soils map,{0F3EC9E7-6653-4797-B5A4-0BE8D1993991}
+-8343293.22753146,4992178.938577,325,534,Warren County Soil Survey Map 092, , , ,0,Soils map,{888D9FDE-5E01-45D5-9049-C6636EC81A9C}
+-8338570.49150398,5015393.44474966,326,656,Tucker Spring, ,Spring noted in NJGS report of the area of Schuster Pond and Bonnie Brook spring.,South of Shuster Spring.,500,Air photo,{50BC178C-9A5C-4546-B11A-C2B6921E64E6}
+-8271575.08082098,4905178.57729223,327,669,Molly Pitcher Spring,Wemrock Road,Located in Monmouth Battlefield State Park. Plaque says Molly Pitcher spring.,Small seep coming from hillside a few yards away near ditch. No spring visible around spring monument.,150,GPS,{8CF28104-58DD-4862-89A4-9DECB1C14229}
+-8250036.9058807,5007496.00123232,328,675,Belmar Spring Glen Rock,43 Grove Street,Bottled water operation since late 1800s. In current ownership since 1924.,spring emerges into octagonal spring house,0,GPS,{99D4AD19-2059-4682-B446-7EFD80E85AF8}
+-8248882.2560437,4910370.69483769,329,681,Tinton Falls Spring,741 Tinton Ave.,Near the base of the Tinton Falls.,Spring adajcent to Tinton Falls was the first bottled water sold in the United States. Most likely located in to NW of falls on Hockhockson/Pine Brook in wetland.,0,GPS,{81813483-992B-45FC-BF70-C811E2AE16BE}
+-8303887.92708847,4996047.80906942,330,683,Oram Spring, ,Spring between Corwin and Spring mines and  NW of Spring Brook in Mine Hill from historic mine map., ,759,Air photo,{F62A996C-850C-4546-9753-886B443AC0E3}
+-8335235.76843025,4956738.97076327,331,685,Valley Crest Spring 1,60 Valley Crest Rd,"Spring discharges in spring house next to Cramer's Creek which flows parrallel to Valley Crest Rd in Clinton Township, Hunterdon.",Used as water supply for farm.,0,GPS,{CDBFD9A1-2583-4532-ABCA-E273047148DB}
+-8335165.54071828,4956701.9142176,332,686,Valley Crest Spring 2,60 Valley Crest Rd,"Spring adjacent to Cramer's Creek, upstream of VC 1", ,0,GPS,{36406B41-0E8C-4282-999B-C974C95C65BB}
+-8335028.48936567,4956658.13264139,333,687,Valley Crest Spring 3,60 Valley Crest Rd,Spring discharges at base of small outcrop at headwater of Cramer's Creek tributary, ,0,GPS,{E21CD5E6-BE5D-442A-AB00-43BCCC1DEDD1}
+-8335491.88734514,4956798.65899914,334,688,Cramer's Creek Spring,70 Valley Crest Rd,"Spring house at intersection of Valley Crest Rd and Rt 31 N, small discharge.", ,0,GPS,{113F95BA-CC3B-419D-8AE3-9971272F2A6C}
+-8312478.03622325,5017374.55066807,335,435,Sparta Avenue, ,"A series of small herbaceous wetland openings with several springs emerging from the ground. The wetland openings total less than 1 acre of open herbaceous dominated meadow, grading into a swamp.", ,0,Air photo,{ED66D570-DAD4-46CF-9FB9-C8DA0904714B}
+-8320617.44443151,5044819.41365667,336,436,Spring Brook Cabin Spring,Route 206,Stokes State Park at Spring Brook Cabin., ,900,GPS,{DBD6D85E-1BA5-4455-9576-4A6C9EFE351D}
+-8305572.72950444,4992831.46998376,337,437,"Spring Hill, Mine Hill Spring",Canfield Ave.,Accessed from a pipe extending 75 feet into ground.  Used as drinking water source by anyone who brings jugs to fill up.  Must register with owner first and pay $10.00 fee to get a key.,Same as 84,0,GPS,{2E26557C-E463-43E0-BF7E-29A4139076BC}
+-8343032.82362666,4931996.14739511,338,438,Spring Meadow Farm Springs,Redding Road,"Two springs on property, possible being developed for bottled water supply.", ,0,Air photo,{76D3D52E-C133-430B-82E0-5D14A8E60648}
+-8354728.74153053,4965013.86519902,339,441,Stanley Spring Muskey Trout Hatchery,Asbury-Bloomsbury Rd.,"Now Muskey Trout Hatchery, large spring near Bloomsbury used as a fish hatchery around 1868 by Dr Slack.","Spring dischargs to large pool halfway down embankment to Musconetcong, used to supply fish hatchery",300,GPS,{3BBF7EB7-BF06-4651-8B91-CE55449B3005}
+-8329785.73757489,5011556.15161014,340,442,Swimming Hole Cave, ,"Private Landowner, a dam on spring flooded the cave, Spring Huntsburg, same as Dalton 15 (spring and cave).", ,0,Air photo,{DEA5BE43-D652-4A2C-9FB4-AD89C5A36CBA}
+-8370130.60425359,4956225.19026672,341,443,Warren County Soil Survey Map 001, , , ,0,Soils map,{39C20820-9875-4034-9A1E-75652AD95002}
+-8370433.57084795,4956244.51401062,342,444,Warren County Soil Survey Map 002, , , ,0,Soils map,{CAF64786-C338-4734-A5CC-1E102E4BD346}
+-8369906.54924892,4956339.86322293,343,445,Warren County Soil Survey Map 003, , , ,0,Soils map,{0D56421F-AB59-4DF3-B022-E568BA90C1CF}
+-8367699.42944972,4957373.8550974,344,446,Warren County Soil Survey Map 004, , , ,0,Soils map,{6AFCA0B4-F305-4F57-BBB8-6232BD6FA108}
+-8368024.3398464,4957523.40403765,345,447,Warren County Soil Survey Map 005, , , ,0,Soils map,{DE6F3031-7E0E-4969-9369-C9F909019C0B}
+-8355186.37977615,4966390.0992947,346,448,Warren County Soil Survey Map 006, , , ,0,Soils map,{097EDD33-30A9-4CCF-9A67-8B5E728F1A88}
+-8357093.70126287,4966423.46623519,347,449,Warren County Soil Survey Map 007, , , ,0,Soils map,{C55445AA-06D8-4FE7-A8AF-7146D61C0C23}
+-8355143.00254554,4966486.46736322,348,450,Warren County Soil Survey Map 008, , , ,0,Soils map,{E583DD2A-D0F5-4183-9810-D2215241F564}
+-8356956.53926309,4966497.82477806,349,451,Warren County Soil Survey Map 009, , , ,0,Soils map,{26C59CCD-957A-4D62-97BB-4A1642783869}
+-8357057.6021513,4966498.91318514,350,452,Warren County Soil Survey Map 010, , , ,0,Soils map,{DB4A77F4-426E-404A-A8C2-30465EEFA93A}
+-8357008.94336031,4966518.4715736,351,453,Warren County Soil Survey Map 011, , , ,0,Soils map,{069656F9-1DB2-414C-9EC5-59683D350B97}
+-8356306.71110838,4966789.08609684,352,454,Warren County Soil Survey Map 012, , , ,0,Soils map,{88CFC944-F9B8-475F-9D49-416C442049C8}
+-8357694.9880705,4967248.61023267,353,455,Warren County Soil Survey Map 013, , , ,0,Soils map,{CAD6D714-D2E7-4A7A-B1F4-9C3A4AFE40C9}
+-8353722.87235278,4968296.53499204,354,456,Warren County Soil Survey Map 014, , , ,0,Soils map,{0EA42541-6BAE-4477-9416-48A931280BA9}
+-8353722.90189067,4968519.45919864,355,457,Warren County Soil Survey Map 015, , , ,0,Soils map,{9B83EF02-5DCD-4917-B50A-4045FB36A657}
+-8353460.15438121,4968592.7816672,356,458,Warren County Soil Survey Map 016, , , ,0,Soils map,{3BD2E931-6FC3-441C-8E95-ED7A371BC504}
+-8353429.62469092,4968602.56687042,357,459,Warren County Soil Survey Map 017, , , ,0,Soils map,{DF5AB2EE-7872-46B0-B8E8-072D38166B1F}
+-8352545.8090458,4969462.12361413,358,460,Warren County Soil Survey Map 018, , , ,0,Soils map,{64ED976A-5444-4C3F-BEAD-B4CD8F3D1945}
+-8352406.59611881,4969904.81367358,359,461,Warren County Soil Survey Map 019, , , ,0,Soils map,{8FD80054-BA4B-4001-8DD6-2C8523D76597}
+-8351738.57123066,4970283.44215142,360,462,Warren County Soil Survey Map 020, , , ,0,Soils map,{01337E3C-ECE9-4E75-8FBB-944127B15C5D}
+-8359602.04341191,4972986.44974519,361,463,Warren County Soil Survey Map 021, ,"Under Merrill Creek reservoir, originally mapped by NRCS in 1970's.", ,0,Soils map,{F7B7A4C3-DB32-4E7E-A4B6-8ED7E527E160}
+-8359324.03933848,4973128.35904045,362,464,Warren County Soil Survey Map 022, ,"Under Merrill Creek reservoir, originally mapped by NRCS in 1970's.", ,0,Soils map,{C26682D6-B21D-4529-BAE0-CA327B46988F}
+-8359250.94430806,4973148.1074863,363,465,Warren County Soil Survey Map 023, ,"Under Merrill Creek reservoir, originally mapped by NRCS in 1970's.", ,0,Soils map,{033A7598-11A8-4473-8FD0-C04E8597A500}
+-8362601.93937445,4973140.58484828,364,466,Warren County Soil Survey Map 024, , , ,0,Soils map,{E9FDF3C1-372D-4ECC-B14D-87EF5EDCFAF2}
+-8349608.72284964,4973407.44717977,365,467,Warren County Soil Survey Map 025, , , ,0,Soils map,{679AA68B-C93F-4A08-9979-54F0FC6A6412}
+-8363770.70492432,4974820.90538762,366,468,Warren County Soil Survey Map 026, , , ,0,Soils map,{105DBA5A-A74A-4025-99BD-F31AC10AB461}
+-8361784.1797685,4976768.82319531,367,469,Warren County Soil Survey Map 027, , , ,0,Soils map,{F885BAC2-291D-432B-82DE-BE049C8E3EA1}
+-8361156.29350809,4977639.47536394,368,470,Warren County Soil Survey Map 028, , , ,0,Soils map,{F41A7FE6-2AAD-4C7F-90D4-B3846917CEFF}
+-8361006.53108409,4977675.53995393,369,471,Warren County Soil Survey Map 029, , , ,0,Soils map,{7CCF647F-CC15-4E20-B59A-8E905ADF3B6A}
+-8361036.88471544,4977776.89126586,370,472,Warren County Soil Survey Map 030, , , ,0,Soils map,{6A17D4B2-2C31-465F-882F-56522DB09D76}
+-8360541.66691068,4978026.78622169,371,473,Warren County Soil Survey Map 031, , , ,0,Soils map,{28129555-BBEB-43A2-ACC9-FC2D7A04A534}
+-8342276.17418908,4978481.15001565,372,474,Warren County Soil Survey Map 032, , , ,0,Soils map,{476E701C-5C3A-4ED4-8C28-CF0436D80357}
+-8342267.67953939,4978526.72459532,373,475,Warren County Soil Survey Map 033, , , ,0,Soils map,{73BF3344-9837-413C-8172-7D8418787A5B}
+-8342232.95675129,4978560.17272391,374,476,Warren County Soil Survey Map 034, , , ,0,Soils map,{1B93B427-8483-4F91-8D0D-F79EC702294E}
+-8342131.42102696,4978839.13291752,375,477,Warren County Soil Survey Map 035, , , ,0,Soils map,{04835E7F-1BE9-412E-AEDB-253520D141AB}
+-8339935.66453261,4978862.8330358,376,478,Warren County Soil Survey Map 036, , , ,0,Soils map,{ABADA481-E322-4CE9-9141-53BB11D316A1}
+-8339858.94779518,4978871.95705027,377,479,Warren County Soil Survey Map 037, , , ,0,Soils map,{285BDD27-5761-4D57-9F8A-9CAE1060C176}
+-8340015.96173619,4978872.95565519,378,480,Warren County Soil Survey Map 038, , , ,0,Soils map,{DDEDC01F-CCAD-4192-AD37-4C79CFB54758}
+-8342058.30689822,4978954.69967509,379,481,Warren County Soil Survey Map 039, , , ,0,Soils map,{B10C6D92-8C3B-4705-9079-20F9EE10F9F9}
+-8343106.83812897,4979057.8069754,380,482,Warren County Soil Survey Map 040, , , ,0,Soils map,{B1398A8B-47C6-4A65-B36F-B315E609C27F}
+-8342706.94879869,4979151.46324585,381,483,Warren County Soil Survey Map 041, , , ,0,Soils map,{2A3580EB-EE47-47E0-9699-AB6B6FB85A90}
+-8341459.59042429,4980222.59013229,382,484,Warren County Soil Survey Map 042, , , ,0,Soils map,{1642DDCD-4928-4CB4-BA87-AF5E2C6AFD41}
+-8340453.10057158,4980523.16602822,383,485,Warren County Soil Survey Map 043, , , ,0,Soils map,{18BFB3C4-193E-4E8A-B39D-6BC70FA06A21}
+-8340515.61112872,4980591.32628366,384,486,Warren County Soil Survey Map 044, , , ,0,Soils map,{D940B67F-721F-4144-B259-A67954BFB15D}
+-8340425.52130694,4980624.89210716,385,487,Warren County Soil Survey Map 045, , , ,0,Soils map,{1C8E9ADD-BF18-42D6-95E5-898BC751F928}
+-8341167.68504244,4980697.43026574,386,488,Warren County Soil Survey Map 046, , , ,0,Soils map,{08215FB0-02D9-4AD4-923F-ED64EF273572}
+-8341901.0692347,4980711.46092201,387,489,Warren County Soil Survey Map 047, , , ,0,Soils map,{C5187385-55A4-4002-9B18-AFC24AC9F0FF}
+-8341860.20874716,4980752.88948736,388,490,Warren County Soil Survey Map 048, , , ,0,Soils map,{A45C7B2C-66F7-4883-876E-3BEBCCAE3B2C}
+-8342947.28630846,4993166.19435325,389,545,Warren County Soil Survey Map 103, , , ,0,Soils map,{7694C68A-DD07-4C2D-B7C5-4CBBEDFFA0F3}
+-8335543.14371303,4993272.19998565,390,546,Warren County Soil Survey Map 104, , , ,0,Soils map,{739857A3-7570-4B8C-B4CE-56B09814DFF9}
+-8334482.92426684,4993556.16424166,391,547,Warren County Soil Survey Map 105, , , ,0,Soils map,{CFD51FC9-E11B-4657-AF42-118015CDC564}
+-8334981.93528897,4993857.81597052,392,548,Warren County Soil Survey Map 106, , , ,0,Soils map,{305B250E-DEE1-4628-A70E-24DD68D5FADC}
+-8335124.41688959,4993933.1125543,393,549,Warren County Soil Survey Map 107, , , ,0,Soils map,{5371CD19-C3F3-49FE-8A64-3B6C4E1BDC3A}
+-8341490.81221046,4993963.7784796,394,550,Warren County Soil Survey Map 108, , , ,0,Soils map,{5C8ADE14-246A-4F86-849C-7B8D0912C7EA}
+-8340709.93868383,4994025.89041854,395,551,Warren County Soil Survey Map 109, , , ,0,Soils map,{0D364255-B208-470A-86C3-249BF8971E4A}
+-8344842.3883626,4994422.20988817,396,552,Warren County Soil Survey Map 110, , , ,0,Soils map,{B69E52D6-F234-49CB-8432-A47700B0B353}
+-8344731.98861683,4994561.01531316,397,553,Warren County Soil Survey Map 111, , , ,0,Soils map,{C6DF454E-B1E5-4000-8453-7C3FFE8D845C}
+-8341080.23525044,4994600.72379609,398,554,Warren County Soil Survey Map 112, , , ,0,Soils map,{E68E3EC0-3CDD-4A08-B26D-1ADB820DE97F}
+-8341070.09400849,4994670.93704332,399,555,Warren County Soil Survey Map 113, , , ,0,Soils map,{07949911-9C1C-4C57-BD27-38EC529035A3}
+-8344725.71871758,4994697.8674357,400,556,Warren County Soil Survey Map 114, , , ,0,Soils map,{C100E491-3E4D-43E4-9031-3444CC6CB2EF}
+-8352509.21709127,4994670.06666077,401,557,Warren County Soil Survey Map 115, , , ,0,Soils map,{65ADAA20-9A7A-4019-9936-BA84F0EDAD7D}
+-8352545.3261933,4994711.80441313,402,558,Warren County Soil Survey Map 116, , , ,0,Soils map,{B24ED46D-D390-45FB-8B0F-3FDC5EF94F64}
+-8352508.79597878,4994785.13882432,403,559,Warren County Soil Survey Map 117, , , ,0,Soils map,{901FD94F-568B-4384-9474-A2495D257E2A}
+-8340941.81728784,4994882.06122965,404,560,Warren County Soil Survey Map 118, , , ,0,Soils map,{72FB88E1-4F2C-48C9-89CE-1EDA6FDDFC49}
+-8344199.90822988,4995061.98973816,405,561,Warren County Soil Survey Map 119, , , ,0,Soils map,{B5F0D859-A749-4D94-B1C1-AEB159D41E26}
+-8353494.53305508,4995069.7712671,406,562,Warren County Soil Survey Map 120, , , ,0,Soils map,{E5941D1D-03FD-4171-B4F2-CD947F17FFDC}
+-8345291.11442398,4995214.08286791,407,563,Warren County Soil Survey Map 121, , , ,0,Soils map,{DDFDB9B4-A7D4-47AD-B79B-AB2BF9EDEEA5}
+-8344893.27840745,4995324.96579254,408,564,Warren County Soil Survey Map 122, , , ,0,Soils map,{84AA1EBF-6A03-487C-A0E0-49AB2498D963}
+-8344929.28248534,4995524.75640581,409,565,Warren County Soil Survey Map 123, , , ,0,Soils map,{4B33F516-37CC-4BD1-A473-EFAA7228B98A}
+-8344929.6898743,4995601.94130922,410,566,Warren County Soil Survey Map 124, , , ,0,Soils map,{B726F1FC-9479-4DD2-B22F-4C3F4B159B62}
+-8350083.10590731,4996186.0398329,411,567,Warren County Soil Survey Map 125, , , ,0,Soils map,{3DEB8703-544E-4894-B54C-47A2A2053F22}
+-8350209.31895276,4996251.9666979,412,568,Warren County Soil Survey Map 126, , , ,0,Soils map,{5042340E-B812-4CD8-842E-F01E41A844C1}
+-8354465.00015114,4996581.60444992,413,569,Warren County Soil Survey Map 127, , , ,0,Soils map,{A9A3C69F-9813-47BA-B2AB-6FB8A657D658}
+-8328986.11342068,4996823.3229084,414,570,Warren County Soil Survey Map 128, , , ,0,Soils map,{421B812F-DF13-4E39-A83F-699C9319D140}
+-8341832.38226125,4997295.1402687,415,571,Warren County Soil Survey Map 129, , , ,0,Soils map,{2520D4AB-6633-454E-82BD-AF4ECE049D07}
+-8340412.45022384,4997369.1620419,416,572,Warren County Soil Survey Map 130, , , ,0,Soils map,{03518736-4E69-437C-BB96-38BD8C0BF473}
+-8341115.4420124,4997513.8110668,417,573,Warren County Soil Survey Map 131, , , ,0,Soils map,{20CAC732-B64F-4D82-B89C-42207699AA07}
+-8342405.62048752,4997563.51567971,418,574,Warren County Soil Survey Map 132, , , ,0,Soils map,{1E0FEA84-820E-4E23-91CF-DD609B131CCF}
+-8351900.12249382,4997557.77197468,419,575,Warren County Soil Survey Map 133, , , ,0,Soils map,{97706B78-1C3A-4BB6-9EE0-321F35F66741}
+-8342342.9623765,4997616.47087493,420,576,Warren County Soil Survey Map 134, , , ,0,Soils map,{5A9EDB61-D213-4AD4-A69F-926F30231AD1}
+-8342350.23540757,4997672.58207255,421,577,Warren County Soil Survey Map 135, , , ,0,Soils map,{1E25E4EA-ACE0-4DE3-A01C-036966D8BFE9}
+-8341392.58271266,4997712.46801218,422,578,Warren County Soil Survey Map 136, , , ,0,Soils map,{5B69AA78-8F55-465A-B6C5-0913EFBFA85D}
+-8341154.8902047,4997717.15243381,423,579,Warren County Soil Survey Map 137, , , ,0,Soils map,{FF8DF57C-34F7-420A-8FB2-2B9E4679872F}
+-8351606.01846504,4997773.60770876,424,580,Warren County Soil Survey Map 138, , , ,0,Soils map,{89E33D6A-B2DA-4C1A-92F3-FDC978EAB8A0}
+-8351656.91550169,4997808.39472465,425,581,Warren County Soil Survey Map 139, , , ,0,Soils map,{4AFB6F06-E08F-4187-8B68-77C4626902AB}
+-8341809.34702985,4997866.20664668,426,582,Warren County Soil Survey Map 140, , , ,0,Soils map,{18327B56-75A4-4370-937A-CEDB2E635BB0}
+-8342155.20709897,4997959.92569834,427,583,Warren County Soil Survey Map 141, , , ,0,Soils map,{3695A97A-E2C7-4C94-9BAF-6B18908EC967}
+-8351523.09304305,4997937.28903015,428,584,Warren County Soil Survey Map 142, , , ,0,Soils map,{7F16B7FF-EE21-45E0-9CD1-03564B732362}
+-8347614.896843,4997985.64797609,429,585,Warren County Soil Survey Map 143, , , ,0,Soils map,{BBF5A69A-A015-4570-90CF-E13BB98452DD}
+-8346307.56168786,4998010.42452544,430,586,Warren County Soil Survey Map 144, , , ,0,Soils map,{A947209F-7CED-4CB0-9FDC-E332AF7FCE05}
+-8347383.27394382,4998009.51086728,431,587,Warren County Soil Survey Map 145, , , ,0,Soils map,{C869E045-D104-4C12-A76A-03DE0ADFC762}
+-8347089.44500538,4998109.64892419,432,588,Warren County Soil Survey Map 146, , , ,0,Soils map,{FC97FC67-7488-4BB8-B344-2CA2DA4659E6}
+-8353604.7348312,4998692.03169294,433,589,Warren County Soil Survey Map 147, , , ,0,Soils map,{FB495BD3-C226-495E-A1BE-1B88BD9390E7}
+-8331931.23996251,4998811.87031539,434,590,Warren County Soil Survey Map 148, , , ,0,Soils map,{39DC739F-FAD2-465B-8F79-1812849F7F19}
+-8353483.97920845,4998739.52610525,435,591,Warren County Soil Survey Map 149, , , ,0,Soils map,{6D1FE60F-0D52-4F61-A012-4E2FE0D16EF5}
+-8353707.88832747,4998764.45692064,436,592,Warren County Soil Survey Map 150, , , ,0,Soils map,{432D4068-F02E-4A23-BDE1-F2AE0BF7C3CA}
+-8353538.37322426,4998772.53014901,437,593,Warren County Soil Survey Map 151, , , ,0,Soils map,{03E5B215-9DE4-43CB-AA73-5791CD6846EE}
+-8353599.67318338,4998791.45241184,438,594,Warren County Soil Survey Map 152, , , ,0,Soils map,{E72FC611-24AC-407A-ABF6-3D1588030D32}
+-8331595.09985473,4998975.65730666,439,595,Warren County Soil Survey Map 153, , , ,0,Soils map,{98E0BA42-3736-4F8C-AB99-42B47BD272A6}
+-8325711.09467995,5000892.42771837,440,596,Warren County Soil Survey Map 154, , , ,0,Soils map,{443BEC88-A232-4831-AE66-6ECC56D70272}
+-8336872.85329048,5001239.05738022,441,597,Warren County Soil Survey Map 155, , , ,0,Soils map,{7D22EB1C-1903-4142-83FC-0448E8BBA20A}
+-8327341.45218811,5002119.0748437,442,598,Warren County Soil Survey Map 156, , , ,0,Soils map,{453106DD-DCBA-4072-BDB3-95C764C9563E}
+-8327537.3901463,5002142.96102353,443,599,Warren County Soil Survey Map 157, , , ,0,Soils map,{DAC51600-2AF6-46F9-AE08-35FB7B434AE9}
+-8326997.90463996,5002156.15148437,444,600,Warren County Soil Survey Map 158, , , ,0,Soils map,{6382FCA6-725B-44F6-84BE-DC1766027AB7}
+-8326975.50828094,5002190.73530138,445,601,Warren County Soil Survey Map 159, , , ,0,Soils map,{9D82C547-E65B-4357-81E8-352786479E1A}
+-8326960.88371542,5002228.63731987,446,602,Warren County Soil Survey Map 160, , , ,0,Soils map,{0DF875F5-FEA6-43E5-AC25-F4AEE1AEEEAF}
+-8326594.57299535,5002578.08877621,447,603,Warren County Soil Survey Map 161, , , ,0,Soils map,{C7AB3FF4-FBDA-4CFB-B5C6-E5C3F4A51BD2}
+-8326476.00281811,5002680.31518729,448,604,Warren County Soil Survey Map 162, , , ,0,Soils map,{2D6CBFDF-D6D0-4388-B441-A69E1054ABE4}
+-8326297.79342431,5002730.07812163,449,605,Warren County Soil Survey Map 163, , , ,0,Soils map,{7CFA581D-1748-474C-B5BA-B4C6425ADD58}
+-8323863.30503224,5043471.09764604,450,758,Stokes Spring, ,Spring just below Stoney Brook Falls upper.,It is a hanging garden spring.,0,GPS,{5F92013C-6D1E-4D93-BA8E-D2AC10F790D3}
+-8362385.49907003,5008822.80577249,451,760,Dunnfield Creek Spring, ,Small spring along Dunnfield Creek Trail.,Emerging out of the base of a hill.,0,GPS,{7FA02163-A341-41E3-B7F2-3452D2446E29}
+-8342835.60257402,4920698.87773255,452,761,Homestead Farm Spring, ,Small springhouse located just east of Rt. 29 in Lambertville.,Associated with historic house at the Homestead farm market.  House dates from the 1700's.,100,Air photo,{AFD79B40-4A1A-47B6-A820-7D5EEF7B612B}
+-8309709.36806183,4974489.55240808,453,439,St John Baptist Monastary Spring # 1,St. Johns Rd.,One of  two natural fresh water springs on the site that bubble out of the ground.  The water is very clear and cold., ,0,Topo map,{DD80C4A2-5714-4EF6-B32E-B83E9EE45137}
+-8311806.19951146,5059432.19665979,454,78,Lake Marcia Spring,Rt. 23,Lake Marcia is a spring fed lake at High Point State Park., ,1570,Air photo,{8E7990F9-0A7A-43DB-B19B-047AF1B23F82}
+-8352195.92454234,4947555.73038537,455,692,Maple Springs Rd. Spring,16 Maple Springs Drive,Spring along contact next to Nishisawick Creek.,Twenty foot long flow along contact.,295,Air photo,{EAF7E110-7D19-45C7-ADD3-D1BD96D96CE4}
+-8336826.78843941,4913113.02826476,456,667,Kusar Mountain Spring 2, ,Spring house in Baldpate Mountain Mercer County Park at farmstead on top of the mountain., ,0,Air photo,{1E805FC5-487C-4D19-94F4-93FA6A381D6C}
+-8333296.9013452,4910846.09373879,457,727,Washington Crossing State Park Spring 2, ,Located along Steele Run in Washington Crossing State Park.,Spring house from old farmstead on park road along Steele Run.,0,Air photo,{05762392-741E-4A6D-AE34-51FA22C5683B}
+-8328760.54121976,4984295.47577887,458,684,Schooleys Mountain Road Spring,309 Schooleys Mountain Rd,Small spring discharges at base of cliff on north side of road in collapsed stone grotto.,found spring when looking for historic Schooleys Mountain Spring,0,Air photo,{C7EAA644-246E-4230-8B40-6AF6184CA039}
+-8355484.82487533,4983356.8894789,459,704,Buckhorn Creek spring 2, ,White Twp. many springs feed Buckhorn Creek., ,0,Air photo,{35482AAE-6E4C-4A24-934A-CFC1A5437D58}
+-8312040.21264055,4981983.90640575,460,690,Highlands Ridge Park Spring Springhouse,100 North Rd.,Spring House east of North Rd. used as the Chester community garden water supply., ,787,Air photo,{F7C954CC-4379-4D2F-AF55-E00B94318A01}
+-8260607.96246388,4901521.20743084,461,755,Farm Spring,482 Brickyard Rd.,Private residence., ,100,Air photo,{A7325D66-8BB7-425D-AC12-8DC40F22595F}
+-8310475.12044614,4974080.69438171,462,440,St John Baptist Monastary Spring # 2,St. Johns Rd.,One of  two natural fresh water springs on the site that bubble out of the ground.  The water is very clear and cold., ,0,Topo map,{2EDFA78D-FEB9-4233-A13E-42C8B0E0D8AA}
+-8369579.3672794,4971204.4973992,463,738,Marble Mountain Spring 3, ,Small pring on south side of creek after culvert under railroad.,Emerges from the side of the hill.,20,Air photo,{9D8F50E1-7021-4F94-BECC-851C88D2801F}
+-8331831.08559759,5042307.49917175,464,702,Bevan's Spring, ,Off of Bevan's Rd. north of Peters Valley.,Spring drains into concrete box then drains into spring run.,560,Air photo,{BF1FF5A3-2217-4CBE-868C-9047341417D9}
+-8352158.79755293,4965244.64049164,465,678,Bernard & Sharon Beatty Spring,244 Asbury West-Portal Rd.,"Bulk water spring, license is currently inactive. Had coliform contamination in 2011.","Sold to water bottling companies,  located in Bethlehem Twp.",336,Air photo,{805FDA2E-5D6A-4A7E-A225-7AB9C814DA9D}
+-8301996.06605867,5032004.4508296,466,655,Scott Road Spring,Scott Rd.,Springhouse or possible artesian well for residence next to Wallkill River., ,0,Air photo,{8D8FF55F-C0B1-473A-8360-4554FD461B6A}
+-8338226.19806679,5015645.22612185,467,15,Schuster Ponds/Mountainwood Spring Water Co.,Mallard Pond (also Lard Pond),Large spring adjacent to Shuster pond.,"Site of Mountainwood Natural Spring Water bottling operation, possibly Blue Mountain Spring bottling site as well.",441,Air photo,{D0C2B21D-D6CD-4D6D-A332-7C34D98D512A}
+-8273245.78388273,4906726.89879751,468,720,Perrine Hill Spring,Tennent Rd.,"Located in Monmouth Battlefield State Park, Manalapan, Monmouth County.",Plaque says Molly Pitcher drew water from this spring to give to thirsty troops.  The exact location of where Molly Pitcher got the water they think.,120,Air photo,{6303BA63-3CD1-46F7-B9AA-DD1CADCC4526}
+-8369588.28610721,4971218.89483713,469,737,Marble Mountain Spring 2, ,Small pring on north side of creek after culvert under railroad.,Emerges from the side of the hill.,20,Air photo,{533C5375-9F9B-4478-B0C4-AB7E4A260542}
+-8329255.94687182,4976354.10043715,470,736,Middle Valley Spring,398 W. Mill Rd.,Located along W. Mill Rd.,Springhouse drains into pond.,500,Air photo,{379EBF2A-C9AE-4EEF-AD43-4C0EC96A905A}
+-8262901.50299899,5032683.51545928,471,707,Sheppard Lake,Ringwood State Park,74 acre spring fed lake in Ringwood State Park.,The spring-fed waters of the 74-acre Shepherd Lake are brisk and invigorating.,600,Air photo,{B30B3679-A0BE-4666-9A88-270D2AF4F530}
+-8328469.5350555,4972588.23003744,472,657,Frog Pond Farm Spring,Beaver Rd.,Beaver Rd. Tewksbury., ,0,Air photo,{258BDA27-4404-4031-9B50-178D48C80944}
+-8365370.04752059,4960811.53613326,473,705,Springtown Spring, , , ,0,Air photo,{BB402CBD-6ABF-47C7-80A1-C1E347A49A4E}
+-8337310.28252815,4811833.16374068,474,12,Blue Hole Inskeep, ,"Blue Hole located in Winslow WMA, Monroe Township, Gloucester Co. Reported to be the most well-know ""blue hole"" of the Pine Barrens.","Numerous tales/legends associated spring including the Jersey Devil. Pool is present if the 1930's air photos but not in earlier maps. There is a raised roadbed adjacent to the spring and it is possible that the spring is actually a ""borrow pit"" that int",0,GPS,{DB08380E-C18D-49E5-B088-CF2D61241857}
+-8347042.3174739,4992510.85366827,475,689,Ballou's Spring,Lakeside Drive West,"Spring house on Lakeside Drive West, near Mountain Lake.",Spring house with flowing water.,0,GPS,{4DFBEBF9-6738-4B08-95B2-09DFB74F128F}
+-8349446.80564629,4839409.42179241,476,701,Crystal Spring 2, ,100 feet away from grotto at Crystal Spring.Laurel springs.,Park,0,GPS,{4E9194D8-62DD-4ECA-BAC9-74C40DACAA30}
+-8327277.32957785,5038046.62188802,477,706,Lake Kittatinny Woods Rd. Spring, ,Small spring that discharges from boulder filled gulley at west edge of Woods Rd.,small spring found while looking for #43,0,Air photo,{D025F86B-19DA-4FEA-B8B5-1C44070B3C26}
+-8364135.81015429,4961478.72138702,478,708,Still Valley-Pohatcong Spring, ,"Springs reported in HK 1968 NJGS report on Pohatcong Creek report, no obvious springs, but may be in PC at base of cliffs.", ,0,Air photo,{7B5F3D1B-D274-404A-A134-37BFF76DB16C}
+-8348427.54736551,4968432.31390679,479,711,Leyburn Spring,11 Maple Avenue,Spring in springhouse on farm., ,330,GPS,{512B3AE9-6891-42DD-8106-0513073A4B9B}
+-8369863.58671272,4958853.01663552,480,713,Carpentersville - Synders Rd. Spring,Rt. 635,Spring in field along Synder Road, ,170,GPS,{1A967316-BDAF-457D-9AFC-B73EB1281010}
+-8348267.78464215,4982641.97734714,481,714,Staley Mine spring, ,"reservoir, possibly also part of the mining operation, surrounded by a low concrete wall, fed by a spring enclosed in an old rock-lined wall.", ,640,Topo map,{DE143C32-E6C5-4C1B-8E29-B6B807CE0283}
+-8283141.34789214,4892876.53043349,482,715,Paint Island Spring,124 Paint Island Spring Rd.,Spring discharges adjacent to headwaters of Toms River next to Paint Island Spring Rd. Flows through wetland and then to Toms River. Millstone Township Monmouth County.,"Large iron pecipitates in spring and weltand. Spring orifice is lined with bricks in a circular shap. Paint Island Spring reported in Gordons Gazetteer of NJ 1834; ""This is a large chalybeate spring whose waters hold so great a quantity of the super carb",0,GPS,{7B8AE452-822E-482B-9589-D261EB41FAED}
+-8350552.986187,5017265.17811084,483,718,Pahaquarry Mine Spring, ,"Located east of the Pahaquarry Copper mine.  Name was randomly assigned, real name unknown.",In Delaware Water Gap National Recreation Area.,1075,Topo map,{D7C94CE1-C028-4F59-AF51-D166CDDABB06}
+-8354358.07974744,4961411.3747104,484,721,Dietz Spring,207 Turkey Hill Rd.,"Used as household supply, discharges to the brook.", ,630,GPS,{3733CB22-022E-431E-BA0A-97AA5D1B21AB}
+-8347758.95673185,4969474.90685002,485,723,Shurts Rd. House Spring, ,Spring house at stone house.,Water supply for the residence.,340,GPS,{6B60ABD4-A60E-4EEA-95C5-F9CF106BB5FF}
+-8339085.90099565,4717975.431748,486,724,Cold Spring, ,The original Village of Cold Spring was derived from the fresh water spring that emerged from a salt water marsh. Regarded as the southernmost spring in Cape May county and New Jersey.,"The cool, refreshing water became so popular that visitors from Cape Island (Cape May) would travel via carriage to the cold spring for a treat. A small shed was erected over the spring and eventually an inn was built near the site.",0,GPS,{673573A6-ED8E-4E0D-8E39-EC2F506EFFAE}
+-8322484.12854379,4972319.30255718,487,725,Tewksbury Spring, , , ,0,GPS,{12D8E6AB-C74A-44CF-B313-624E59543D5A}
+-8330518.38472675,4965919.70633016,488,728,Water Street Spring Tewksbury, , , ,0,GPS,{7C17C27D-ED60-432C-8E9D-FD95FB6244BB}
+-8351085.1529514,4846785.94051311,489,729,Diamond Spring, ,"Its mineral waters were shipped to Philadelphia 1894-1903, northeast lawnside.", ,0,Air photo,{C8D95941-201F-4BE5-B333-EADC8EC5FE99}
+-8285922.64260256,4914985.79395354,490,730,Thompson Park Spring,Fir Rd.,"Publicly accessible spring in Thompson Park, Middlesex County.",Spring emerges from cement basin.,100,GPS,{A1507452-90D6-4348-BCED-D6ACF3EA2B13}
+-8351228.50913456,4973484.61843481,491,731,Broadway Spring,484 Bellis Rd.,Once the source of mineral water at a health resort., ,480,GPS,{67593286-49A6-4641-A95F-8706FECF430A}
+-8350872.59864888,4963732.22513232,492,732,Huff Spring, ,Located in woods near mine area., ,800,GPS,{F22C2E6B-33B5-4502-BF9D-A00699F4F087}
+-8315381.21672254,4881040.39625033,493,734,Chesterfield Spring, ,Located south of Mansfield Square., ,75,Topo map,{2EC24C32-D38B-40D8-B52A-91870E379B11}
+-8315845.51684301,4881752.44801356,494,735,Chesterfield Spring 2, ,Located south of Mansfield Square., ,80,Topo map,{FB73E19E-5BC1-4091-AF67-E390FDFD2BFD}
+-8351646.18067073,4947567.11048515,495,739,Maple Springs Road spring 2, , , ,400,Air photo,{05A1A236-8C8A-46B7-A65B-940F27ED58B6}
+-8281771.20378648,4964704.77386687,496,740,Watchung Reservation Spring, ,Small springs above Blue Brook in the Watchung Reservation.,Along nature trail.,250,GPS,{8B67FE50-7970-4562-A174-4EA4D594EBC6}
+-8335575.82270331,4913220.56724746,497,741,Kuser Mountain Spring 3, ,Small springhouse on Kuser Mountain., ,205,Air photo,{50DD0814-3F42-419B-95FA-032E853722A5}
+-8349146.4259005,4963418.61976245,498,742,Tower Hill Reserve Spring,Mountain View Rd.,Springhoue located along Mountain View Rd.,"A unique two story springhouse is located in the Tower Hill Reserve, formerly a farm.  Springhouse was built in the 1840's. Water in the springhouse but not much flow outside.",0,GPS,{8E145BF6-FBBB-44AE-8198-5E6E750C09FA}
+-8306836.85322025,4982822.1152114,499,743,Buttermilk Falls spring 1, ,Small spring emerging from steep hillside near Buttermilk Falls on India Brook., ,700,Air photo,{9817E362-3CA0-40C7-B5D5-D4FE4E94DA21}
+-8306820.83731832,4982826.23712423,500,744,Buttermilk Falls Spring 2, ,Small spring emerging from steep hillside near Buttermilk Falls on India Brook., ,700,Air photo,{CE1DC691-CA58-498C-B892-ABDA7ED35DFC}
+-8306819.68155708,4982823.29511645,501,745,Buttermilk Falls Spring 3, ,Small spring emerging from steep hillside near Buttermilk Falls on India Brook., ,700,Air photo,{AA0C01D0-A417-495B-A1D1-D3399833A6FE}
+-8343670.03599865,4988276.7349276,502,747,Shoemaker Spring,Rt. 46,Spring on the Pequest trout hatchery property.,Spring originally served as one of the sources of water for the trout ponds.,450,Topo map,{7772A131-E387-4790-BB0F-A600E26070C4}
+-8345651.0152251,4986982.41176438,503,748,Bangma Spring,Rt. 46,Spring on the Pequest trout hatchery property.,Spring originally served as one of the sources of water for the trout ponds. Unknown if it still flows.,450,Topo map,{46C44B68-A1F5-456E-AA3E-96A9D946BE5B}
+-8344470.2892808,4987573.15158861,504,749,Pequest Reservoir Spring 1,Rt. 46,Spring which fed fish raceway on the Pequest trout hatchery property.,Spring originally served as one of the sources of water for the trout ponds.,450,Topo map,{A718F4C4-90D6-4ADF-B5CC-39C53A18D6B0}
+-8344321.90746628,4987632.72647523,505,750,Pequest Reservoir spring 2,Rt. 46,Spring which fed fish raceway on the Pequest trout hatchery property.,Spring originally served as one of the sources of water for the trout ponds.,450,Topo map,{A475C9F6-8824-477D-A27C-713A4D1F7888}
+-8344631.33105471,4987502.08833067,506,751,Hatchery Pool spring,Rt. 46,Spring which fed fish raceway on the Pequest trout hatchery property.,Spring originally served as one of the sources of water for the trout ponds.,450,Topo map,{BB6349A9-65A0-4D32-A3F5-57AE219FCDAC}
+-8343735.17786741,4987896.6159201,507,752,Watercress Spring,Rt. 46,Spring on Pequest trout hatchery property.,Watercress may or may not be the name of the spring.,450,Topo map,{25DBA2F4-9EFA-4367-AACF-A2E9F9F0872F}
+-8344041.06842742,4987620.17391407,508,753,Pequest Hatchery Spring,Rt. 46,Spring on Pequest trout hatchery property.,Spring on hatchery property.,450,Topo map,{5055585B-CD47-4456-9B07-7A4465EF4A7F}
+-8319843.65846937,5021011.79863837,509,754,"Big Spring, Newton",Mt. View Street,Near downtown Newton,"At a corner between the town of Newton and the townships of Andover and Hampton, it's the main source of water for the western branch of the Paulinskill River.",560,Topo map,{218EBFFF-193D-4A37-9EE3-45B19A5806FF}
+-8352750.81626889,5017208.03009164,510,757,Old Mine Road Spring,Old Mine Road,Small Spring alon Old Mine Road in Worthington State Forest,Small springhouse 100 feet from Old Mine road,0,GPS,{4F249195-D321-43EA-9EC5-251D152BA988}
